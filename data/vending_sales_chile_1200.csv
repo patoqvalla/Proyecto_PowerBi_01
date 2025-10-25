@@ -1,0 +1,1201 @@
+﻿SaleID,DateTime,MachineID,LocationID,ProductID,ProductName,Category,Price,Quantity,TotalLine,PaymentType,Route,Region,City,Zone
+S00001,2024-05-22 22:27:00,MAQ020,CLIENTE004,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00002,2024-06-04 14:50:00,MAQ009,CLIENTE036,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00003,2024-12-07 00:42:00,MAQ013,CLIENTE020,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00004,2024-04-20 23:32:00,MAQ008,CLIENTE008,P006,Galletas,Snack,1000,2,2000,QR,Ruta E,Araucanía,Temuco,Sur
+S00005,2024-09-14 21:48:00,MAQ002,CLIENTE027,P010,Chocolate,Snack,1700,3,5100,QR,Ruta B,Biobío,Concepción,Sur
+S00006,2024-03-15 07:28:00,MAQ015,CLIENTE040,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00007,2024-08-25 00:37:00,MAQ012,CLIENTE005,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00008,2024-09-27 02:33:00,MAQ008,CLIENTE045,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00009,2024-07-06 14:35:00,MAQ009,CLIENTE031,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00010,2024-10-01 11:30:00,MAQ019,CLIENTE024,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00011,2024-08-10 17:16:00,MAQ016,CLIENTE031,P006,Galletas,Snack,1000,1,1000,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00012,2024-01-07 19:47:00,MAQ011,CLIENTE041,P006,Galletas,Snack,1000,3,3000,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00013,2024-07-04 00:00:00,MAQ009,CLIENTE014,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00014,2024-04-10 12:18:00,MAQ004,CLIENTE040,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00015,2024-03-22 22:31:00,MAQ018,CLIENTE012,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00016,2024-12-24 22:24:00,MAQ006,CLIENTE003,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00017,2024-07-24 23:43:00,MAQ009,CLIENTE029,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00018,2024-05-11 12:33:00,MAQ009,CLIENTE032,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00019,2024-05-25 22:38:00,MAQ005,CLIENTE013,P008,Energética,Bebida,1600,2,3200,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00020,2024-03-19 12:53:00,MAQ020,CLIENTE029,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00021,2024-08-27 01:10:00,MAQ019,CLIENTE006,P006,Galletas,Snack,1000,2,2000,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00022,2024-06-21 19:24:00,MAQ010,CLIENTE045,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00023,2024-09-29 22:32:00,MAQ005,CLIENTE050,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00024,2024-08-25 15:49:00,MAQ009,CLIENTE039,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00025,2024-07-22 17:09:00,MAQ004,CLIENTE049,P006,Galletas,Snack,1000,3,3000,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00026,2024-12-08 07:37:00,MAQ011,CLIENTE032,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta C,Biobío,Concepción,Sur
+S00027,2024-12-02 19:33:00,MAQ006,CLIENTE016,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00028,2024-01-15 08:26:00,MAQ012,CLIENTE002,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00029,2024-08-26 15:57:00,MAQ019,CLIENTE045,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00030,2024-08-28 02:13:00,MAQ006,CLIENTE021,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00031,2024-04-10 22:12:00,MAQ001,CLIENTE016,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta A,Biobío,Concepción,Sur
+S00032,2024-07-06 17:48:00,MAQ002,CLIENTE036,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00033,2024-09-09 04:52:00,MAQ017,CLIENTE023,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00034,2024-08-14 03:19:00,MAQ016,CLIENTE034,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00035,2024-03-12 00:48:00,MAQ003,CLIENTE038,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00036,2024-01-04 04:45:00,MAQ012,CLIENTE041,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00037,2024-12-18 13:03:00,MAQ001,CLIENTE048,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00038,2024-12-06 09:13:00,MAQ018,CLIENTE031,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00039,2024-06-29 17:42:00,MAQ020,CLIENTE010,P006,Galletas,Snack,1000,2,2000,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00040,2024-03-04 09:09:00,MAQ020,CLIENTE039,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00041,2024-06-10 08:17:00,MAQ015,CLIENTE034,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00042,2024-03-27 13:45:00,MAQ002,CLIENTE001,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00043,2024-05-23 15:29:00,MAQ016,CLIENTE034,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00044,2024-10-14 09:16:00,MAQ018,CLIENTE040,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00045,2024-06-27 15:28:00,MAQ001,CLIENTE050,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00046,2024-10-16 04:41:00,MAQ015,CLIENTE001,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta B,Biobío,Concepción,Sur
+S00047,2024-10-31 15:42:00,MAQ018,CLIENTE022,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Araucanía,Temuco,Sur
+S00048,2024-02-28 03:24:00,MAQ019,CLIENTE030,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00049,2024-01-25 16:32:00,MAQ013,CLIENTE033,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00050,2024-09-22 20:02:00,MAQ017,CLIENTE002,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta B,Biobío,Concepción,Sur
+S00051,2024-06-30 09:26:00,MAQ010,CLIENTE024,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00052,2024-11-28 23:45:00,MAQ011,CLIENTE018,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00053,2024-05-26 07:15:00,MAQ009,CLIENTE050,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00054,2024-01-27 11:22:00,MAQ017,CLIENTE038,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta A,Araucanía,Temuco,Sur
+S00055,2024-02-16 01:53:00,MAQ005,CLIENTE014,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00056,2024-06-20 11:54:00,MAQ017,CLIENTE004,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00057,2024-10-31 08:21:00,MAQ009,CLIENTE017,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00058,2024-06-08 00:53:00,MAQ013,CLIENTE018,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00059,2024-10-14 19:14:00,MAQ007,CLIENTE028,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta D,Araucanía,Temuco,Sur
+S00060,2024-06-16 23:41:00,MAQ014,CLIENTE006,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00061,2024-10-12 00:17:00,MAQ011,CLIENTE039,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00062,2024-10-12 02:52:00,MAQ005,CLIENTE007,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00063,2024-02-27 13:13:00,MAQ012,CLIENTE011,P008,Energética,Bebida,1600,2,3200,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00064,2024-12-28 05:52:00,MAQ008,CLIENTE032,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00065,2024-06-13 07:29:00,MAQ007,CLIENTE018,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00066,2024-09-07 20:19:00,MAQ009,CLIENTE050,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00067,2024-12-22 15:08:00,MAQ012,CLIENTE022,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00068,2024-07-14 11:54:00,MAQ005,CLIENTE022,P010,Chocolate,Snack,1700,2,3400,QR,Ruta A,Araucanía,Temuco,Sur
+S00069,2024-09-23 02:08:00,MAQ016,CLIENTE026,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00070,2024-01-29 05:25:00,MAQ014,CLIENTE023,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00071,2024-03-11 21:22:00,MAQ011,CLIENTE039,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00072,2024-02-18 11:55:00,MAQ007,CLIENTE048,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00073,2024-05-12 22:55:00,MAQ016,CLIENTE050,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00074,2024-11-22 20:37:00,MAQ004,CLIENTE017,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00075,2024-05-24 15:28:00,MAQ018,CLIENTE042,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00076,2024-05-07 02:02:00,MAQ004,CLIENTE016,P006,Galletas,Snack,1000,3,3000,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00077,2024-02-27 17:43:00,MAQ002,CLIENTE013,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00078,2024-04-24 23:46:00,MAQ005,CLIENTE046,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta C,Biobío,Concepción,Sur
+S00079,2024-04-01 22:19:00,MAQ002,CLIENTE046,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00080,2024-06-08 18:53:00,MAQ018,CLIENTE008,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta A,Biobío,Concepción,Sur
+S00081,2024-11-12 05:46:00,MAQ020,CLIENTE044,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00082,2024-02-06 04:51:00,MAQ004,CLIENTE044,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00083,2024-10-08 12:33:00,MAQ001,CLIENTE012,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00084,2024-10-27 13:00:00,MAQ020,CLIENTE034,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00085,2024-01-29 03:26:00,MAQ014,CLIENTE024,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00086,2024-09-23 22:22:00,MAQ018,CLIENTE046,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00087,2024-03-22 16:20:00,MAQ001,CLIENTE001,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00088,2024-02-20 06:30:00,MAQ018,CLIENTE009,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00089,2024-09-23 04:04:00,MAQ003,CLIENTE015,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00090,2024-05-27 19:18:00,MAQ007,CLIENTE029,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta D,Biobío,Concepción,Sur
+S00091,2024-05-10 05:45:00,MAQ008,CLIENTE022,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00092,2024-09-25 01:34:00,MAQ011,CLIENTE035,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00093,2024-01-10 19:46:00,MAQ010,CLIENTE004,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00094,2024-10-31 17:15:00,MAQ018,CLIENTE041,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00095,2024-07-20 19:53:00,MAQ007,CLIENTE007,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00096,2024-05-26 03:14:00,MAQ020,CLIENTE025,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00097,2024-07-23 04:42:00,MAQ008,CLIENTE039,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00098,2024-03-26 02:53:00,MAQ013,CLIENTE035,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00099,2024-08-10 10:23:00,MAQ012,CLIENTE004,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00100,2024-11-11 01:31:00,MAQ016,CLIENTE023,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00101,2024-08-01 02:26:00,MAQ015,CLIENTE011,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00102,2024-05-20 19:44:00,MAQ020,CLIENTE027,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00103,2024-02-28 23:29:00,MAQ016,CLIENTE006,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00104,2024-10-17 01:24:00,MAQ011,CLIENTE026,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00105,2024-05-19 16:49:00,MAQ017,CLIENTE019,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00106,2024-05-30 07:08:00,MAQ019,CLIENTE050,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00107,2024-09-11 14:40:00,MAQ012,CLIENTE010,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00108,2024-06-30 06:44:00,MAQ020,CLIENTE002,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00109,2024-07-29 18:21:00,MAQ019,CLIENTE040,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00110,2024-03-16 06:46:00,MAQ005,CLIENTE040,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00111,2024-06-26 14:59:00,MAQ005,CLIENTE015,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00112,2024-10-16 08:51:00,MAQ010,CLIENTE047,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00113,2024-12-27 22:08:00,MAQ018,CLIENTE002,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00114,2024-03-09 17:40:00,MAQ016,CLIENTE029,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00115,2024-01-06 11:38:00,MAQ009,CLIENTE039,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta A,Araucanía,Temuco,Sur
+S00116,2024-05-02 21:01:00,MAQ010,CLIENTE020,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta B,Araucanía,Temuco,Sur
+S00117,2024-01-17 18:43:00,MAQ010,CLIENTE030,P008,Energética,Bebida,1600,2,3200,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00118,2024-04-05 14:28:00,MAQ012,CLIENTE011,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00119,2024-09-22 23:54:00,MAQ002,CLIENTE008,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00120,2024-07-30 03:42:00,MAQ012,CLIENTE014,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00121,2024-03-27 20:42:00,MAQ009,CLIENTE017,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00122,2024-10-24 01:33:00,MAQ008,CLIENTE030,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00123,2024-11-10 23:44:00,MAQ011,CLIENTE025,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00124,2024-03-29 11:59:00,MAQ018,CLIENTE002,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00125,2024-10-07 11:49:00,MAQ004,CLIENTE034,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00126,2024-06-16 00:17:00,MAQ019,CLIENTE018,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00127,2024-07-22 12:20:00,MAQ020,CLIENTE035,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00128,2024-02-10 10:35:00,MAQ009,CLIENTE042,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00129,2024-01-04 03:09:00,MAQ016,CLIENTE018,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Biobío,Concepción,Sur
+S00130,2024-07-15 18:35:00,MAQ013,CLIENTE026,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00131,2024-10-16 19:56:00,MAQ004,CLIENTE016,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00132,2024-08-28 16:56:00,MAQ006,CLIENTE016,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00133,2024-11-20 09:50:00,MAQ012,CLIENTE034,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00134,2024-11-16 17:03:00,MAQ018,CLIENTE010,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00135,2024-06-25 02:55:00,MAQ015,CLIENTE036,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00136,2024-11-17 00:37:00,MAQ008,CLIENTE031,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00137,2024-10-30 23:42:00,MAQ010,CLIENTE009,P008,Energética,Bebida,1600,2,3200,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00138,2024-09-05 17:01:00,MAQ012,CLIENTE009,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00139,2024-05-06 09:11:00,MAQ004,CLIENTE016,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00140,2024-09-03 00:38:00,MAQ004,CLIENTE012,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00141,2024-04-03 14:05:00,MAQ003,CLIENTE032,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00142,2024-08-05 15:48:00,MAQ017,CLIENTE002,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00143,2024-10-28 15:16:00,MAQ011,CLIENTE032,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta B,Araucanía,Temuco,Sur
+S00144,2024-10-28 06:17:00,MAQ006,CLIENTE004,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00145,2024-09-03 15:43:00,MAQ004,CLIENTE018,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00146,2024-07-11 16:24:00,MAQ016,CLIENTE031,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00147,2024-12-17 12:13:00,MAQ014,CLIENTE028,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00148,2024-08-03 11:29:00,MAQ019,CLIENTE006,P008,Energética,Bebida,1600,3,4800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00149,2024-01-09 00:33:00,MAQ001,CLIENTE021,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00150,2024-07-04 17:50:00,MAQ003,CLIENTE035,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00151,2024-03-25 19:36:00,MAQ005,CLIENTE015,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00152,2024-01-12 23:23:00,MAQ004,CLIENTE018,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00153,2024-02-24 19:17:00,MAQ010,CLIENTE038,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00154,2024-04-20 06:05:00,MAQ012,CLIENTE033,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00155,2024-03-11 01:52:00,MAQ004,CLIENTE009,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00156,2024-09-21 17:36:00,MAQ006,CLIENTE040,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00157,2024-04-21 13:39:00,MAQ013,CLIENTE003,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00158,2024-09-19 10:53:00,MAQ009,CLIENTE026,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00159,2024-02-24 17:44:00,MAQ019,CLIENTE037,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00160,2024-02-17 00:35:00,MAQ002,CLIENTE030,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00161,2024-09-06 01:12:00,MAQ015,CLIENTE033,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00162,2024-06-15 18:11:00,MAQ004,CLIENTE044,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00163,2024-04-07 00:04:00,MAQ002,CLIENTE042,P008,Energética,Bebida,1600,1,1600,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00164,2024-03-18 10:15:00,MAQ004,CLIENTE019,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00165,2024-08-14 10:28:00,MAQ007,CLIENTE042,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00166,2024-04-23 04:47:00,MAQ011,CLIENTE028,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00167,2024-12-07 17:29:00,MAQ002,CLIENTE032,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00168,2024-04-27 04:53:00,MAQ011,CLIENTE044,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00169,2024-11-25 02:40:00,MAQ009,CLIENTE017,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00170,2024-03-15 01:19:00,MAQ019,CLIENTE020,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00171,2024-07-22 23:04:00,MAQ013,CLIENTE014,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00172,2024-04-24 17:06:00,MAQ004,CLIENTE011,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00173,2024-11-19 03:46:00,MAQ011,CLIENTE049,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00174,2024-04-23 23:14:00,MAQ009,CLIENTE003,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00175,2024-08-08 00:58:00,MAQ007,CLIENTE043,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00176,2024-05-31 20:10:00,MAQ011,CLIENTE033,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00177,2024-03-02 13:37:00,MAQ019,CLIENTE005,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00178,2024-11-30 19:42:00,MAQ015,CLIENTE041,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00179,2024-04-26 11:34:00,MAQ005,CLIENTE004,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00180,2024-07-01 04:36:00,MAQ007,CLIENTE032,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00181,2024-01-30 12:36:00,MAQ011,CLIENTE038,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00182,2024-12-22 05:46:00,MAQ011,CLIENTE036,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00183,2024-02-14 23:36:00,MAQ013,CLIENTE025,P006,Galletas,Snack,1000,3,3000,QR,Ruta A,Biobío,Concepción,Sur
+S00184,2024-04-26 23:08:00,MAQ015,CLIENTE014,P008,Energética,Bebida,1600,2,3200,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00185,2024-04-25 14:26:00,MAQ017,CLIENTE010,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00186,2024-11-07 06:45:00,MAQ013,CLIENTE033,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00187,2024-01-10 04:54:00,MAQ009,CLIENTE019,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00188,2024-01-19 06:00:00,MAQ008,CLIENTE046,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00189,2024-01-14 17:48:00,MAQ017,CLIENTE015,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00190,2024-11-16 14:50:00,MAQ018,CLIENTE003,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00191,2024-09-29 11:11:00,MAQ013,CLIENTE017,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00192,2024-12-18 21:50:00,MAQ002,CLIENTE022,P010,Chocolate,Snack,1700,2,3400,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00193,2024-02-19 06:01:00,MAQ007,CLIENTE050,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta B,Araucanía,Temuco,Sur
+S00194,2024-08-04 02:33:00,MAQ012,CLIENTE042,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta D,Biobío,Concepción,Sur
+S00195,2024-06-10 20:37:00,MAQ015,CLIENTE033,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta A,Araucanía,Temuco,Sur
+S00196,2024-05-14 23:57:00,MAQ014,CLIENTE037,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00197,2024-07-24 07:26:00,MAQ007,CLIENTE025,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00198,2024-08-17 08:04:00,MAQ001,CLIENTE044,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00199,2024-04-23 02:46:00,MAQ012,CLIENTE029,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00200,2024-02-18 04:15:00,MAQ009,CLIENTE042,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00201,2024-05-21 08:17:00,MAQ002,CLIENTE019,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Araucanía,Temuco,Sur
+S00202,2024-09-07 12:15:00,MAQ004,CLIENTE005,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00203,2024-08-04 14:44:00,MAQ015,CLIENTE019,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00204,2024-02-23 14:54:00,MAQ003,CLIENTE047,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00205,2024-03-04 06:15:00,MAQ013,CLIENTE032,P006,Galletas,Snack,1000,2,2000,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00206,2024-03-13 14:28:00,MAQ018,CLIENTE042,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00207,2024-08-14 04:44:00,MAQ017,CLIENTE006,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00208,2024-10-30 21:11:00,MAQ018,CLIENTE003,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta A,Biobío,Concepción,Sur
+S00209,2024-01-27 19:57:00,MAQ015,CLIENTE009,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00210,2024-12-13 17:43:00,MAQ010,CLIENTE046,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00211,2024-04-24 09:39:00,MAQ001,CLIENTE005,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00212,2024-02-14 22:50:00,MAQ010,CLIENTE016,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00213,2024-12-14 13:20:00,MAQ008,CLIENTE024,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00214,2024-04-21 04:01:00,MAQ004,CLIENTE034,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00215,2024-07-23 04:38:00,MAQ013,CLIENTE033,P008,Energética,Bebida,1600,3,4800,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00216,2024-04-05 19:38:00,MAQ020,CLIENTE012,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00217,2024-01-09 03:01:00,MAQ010,CLIENTE007,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00218,2024-09-07 09:05:00,MAQ012,CLIENTE032,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00219,2024-01-09 04:45:00,MAQ011,CLIENTE030,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00220,2024-02-25 05:44:00,MAQ009,CLIENTE037,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00221,2024-03-02 22:52:00,MAQ019,CLIENTE039,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00222,2024-06-12 21:38:00,MAQ009,CLIENTE026,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00223,2024-05-20 12:08:00,MAQ013,CLIENTE027,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00224,2024-01-14 08:54:00,MAQ017,CLIENTE012,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00225,2024-04-15 17:18:00,MAQ006,CLIENTE030,P010,Chocolate,Snack,1700,2,3400,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00226,2024-03-25 07:48:00,MAQ012,CLIENTE035,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00227,2024-07-02 07:22:00,MAQ003,CLIENTE032,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00228,2024-08-29 00:47:00,MAQ020,CLIENTE006,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta C,Araucanía,Temuco,Sur
+S00229,2024-05-01 12:00:00,MAQ003,CLIENTE005,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00230,2024-11-14 21:58:00,MAQ008,CLIENTE028,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00231,2024-04-11 12:43:00,MAQ006,CLIENTE042,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00232,2024-06-29 02:06:00,MAQ018,CLIENTE049,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00233,2024-11-21 11:39:00,MAQ011,CLIENTE016,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00234,2024-01-23 03:27:00,MAQ005,CLIENTE038,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00235,2024-12-09 14:15:00,MAQ011,CLIENTE048,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00236,2024-04-12 17:24:00,MAQ014,CLIENTE022,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00237,2024-05-23 03:13:00,MAQ013,CLIENTE019,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00238,2024-08-08 18:09:00,MAQ008,CLIENTE012,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00239,2024-04-19 03:52:00,MAQ011,CLIENTE033,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00240,2024-02-28 19:49:00,MAQ015,CLIENTE009,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00241,2024-08-11 20:34:00,MAQ019,CLIENTE049,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00242,2024-09-18 03:01:00,MAQ002,CLIENTE027,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta C,Araucanía,Temuco,Sur
+S00243,2024-11-28 05:16:00,MAQ008,CLIENTE005,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta C,Biobío,Concepción,Sur
+S00244,2024-05-28 05:13:00,MAQ018,CLIENTE047,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00245,2024-03-21 06:34:00,MAQ006,CLIENTE042,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00246,2024-06-26 20:21:00,MAQ008,CLIENTE024,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta A,Araucanía,Temuco,Sur
+S00247,2024-08-16 13:52:00,MAQ005,CLIENTE013,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Biobío,Concepción,Sur
+S00248,2024-11-25 11:29:00,MAQ001,CLIENTE010,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00249,2024-12-22 04:32:00,MAQ019,CLIENTE009,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00250,2024-03-15 17:03:00,MAQ010,CLIENTE003,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00251,2024-08-01 18:57:00,MAQ018,CLIENTE014,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00252,2024-01-04 22:03:00,MAQ005,CLIENTE033,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00253,2024-06-21 05:17:00,MAQ013,CLIENTE014,P006,Galletas,Snack,1000,3,3000,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00254,2024-03-14 04:20:00,MAQ007,CLIENTE025,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00255,2024-03-07 07:10:00,MAQ005,CLIENTE045,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00256,2024-08-16 00:12:00,MAQ011,CLIENTE025,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00257,2024-08-18 10:19:00,MAQ013,CLIENTE019,P008,Energética,Bebida,1600,1,1600,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00258,2024-01-31 07:29:00,MAQ012,CLIENTE015,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00259,2024-09-12 15:57:00,MAQ003,CLIENTE046,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00260,2024-09-22 07:51:00,MAQ011,CLIENTE025,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00261,2024-04-05 22:11:00,MAQ020,CLIENTE016,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00262,2024-09-17 16:07:00,MAQ009,CLIENTE042,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta D,Biobío,Concepción,Sur
+S00263,2024-02-09 05:21:00,MAQ013,CLIENTE002,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00264,2024-12-26 12:22:00,MAQ017,CLIENTE046,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00265,2024-06-14 15:54:00,MAQ009,CLIENTE028,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00266,2024-02-09 14:12:00,MAQ017,CLIENTE004,P008,Energética,Bebida,1600,2,3200,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00267,2024-06-26 12:45:00,MAQ013,CLIENTE029,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00268,2024-10-01 04:08:00,MAQ020,CLIENTE040,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00269,2024-04-24 05:17:00,MAQ020,CLIENTE006,P010,Chocolate,Snack,1700,1,1700,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00270,2024-05-28 23:22:00,MAQ014,CLIENTE008,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00271,2024-12-25 14:29:00,MAQ002,CLIENTE047,P006,Galletas,Snack,1000,3,3000,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00272,2024-09-22 04:08:00,MAQ004,CLIENTE026,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00273,2024-05-27 22:32:00,MAQ012,CLIENTE011,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00274,2024-06-24 04:25:00,MAQ004,CLIENTE033,P008,Energética,Bebida,1600,1,1600,QR,Ruta D,Biobío,Concepción,Sur
+S00275,2024-03-25 02:34:00,MAQ001,CLIENTE010,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00276,2024-07-24 00:28:00,MAQ015,CLIENTE012,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00277,2024-04-17 14:15:00,MAQ020,CLIENTE026,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00278,2024-11-27 12:55:00,MAQ019,CLIENTE043,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00279,2024-10-21 17:41:00,MAQ016,CLIENTE021,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00280,2024-06-23 17:33:00,MAQ002,CLIENTE044,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00281,2024-05-28 18:24:00,MAQ006,CLIENTE038,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00282,2024-01-17 13:36:00,MAQ009,CLIENTE008,P008,Energética,Bebida,1600,1,1600,QR,Ruta C,Biobío,Concepción,Sur
+S00283,2024-08-07 21:39:00,MAQ017,CLIENTE011,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00284,2024-03-26 17:16:00,MAQ005,CLIENTE010,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00285,2024-03-28 11:14:00,MAQ019,CLIENTE022,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00286,2024-06-22 15:16:00,MAQ020,CLIENTE037,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00287,2024-01-21 14:02:00,MAQ018,CLIENTE027,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00288,2024-06-08 18:50:00,MAQ004,CLIENTE015,P008,Energética,Bebida,1600,1,1600,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00289,2024-07-25 09:41:00,MAQ017,CLIENTE020,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00290,2024-08-17 21:05:00,MAQ019,CLIENTE039,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00291,2024-05-09 01:50:00,MAQ010,CLIENTE027,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00292,2024-06-14 00:49:00,MAQ011,CLIENTE030,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00293,2024-10-22 22:51:00,MAQ016,CLIENTE048,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00294,2024-03-07 06:28:00,MAQ005,CLIENTE038,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00295,2024-05-23 10:57:00,MAQ010,CLIENTE020,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00296,2024-09-27 01:00:00,MAQ009,CLIENTE011,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00297,2024-10-17 23:33:00,MAQ011,CLIENTE032,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00298,2024-09-01 16:04:00,MAQ014,CLIENTE016,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00299,2024-03-11 09:08:00,MAQ015,CLIENTE016,P010,Chocolate,Snack,1700,3,5100,QR,Ruta B,Biobío,Concepción,Sur
+S00300,2024-02-17 23:38:00,MAQ014,CLIENTE007,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00301,2024-02-22 21:38:00,MAQ001,CLIENTE007,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00302,2024-03-04 08:06:00,MAQ020,CLIENTE008,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00303,2024-01-01 11:52:00,MAQ001,CLIENTE008,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00304,2024-04-05 19:36:00,MAQ005,CLIENTE011,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00305,2024-03-16 20:35:00,MAQ007,CLIENTE041,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00306,2024-11-22 07:58:00,MAQ017,CLIENTE020,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00307,2024-06-08 05:52:00,MAQ017,CLIENTE032,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00308,2024-07-18 18:14:00,MAQ005,CLIENTE012,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00309,2024-06-18 14:10:00,MAQ011,CLIENTE006,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00310,2024-10-25 01:25:00,MAQ001,CLIENTE007,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00311,2024-11-08 10:11:00,MAQ012,CLIENTE045,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta D,Araucanía,Temuco,Sur
+S00312,2024-06-20 05:02:00,MAQ010,CLIENTE019,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00313,2024-02-26 04:06:00,MAQ014,CLIENTE035,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00314,2024-08-26 07:02:00,MAQ012,CLIENTE045,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta C,Biobío,Concepción,Sur
+S00315,2024-02-18 21:03:00,MAQ012,CLIENTE035,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00316,2024-01-16 12:20:00,MAQ013,CLIENTE048,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00317,2024-01-21 04:40:00,MAQ013,CLIENTE002,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00318,2024-01-26 04:06:00,MAQ008,CLIENTE017,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Araucanía,Temuco,Sur
+S00319,2024-05-28 01:23:00,MAQ016,CLIENTE009,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00320,2024-07-27 12:28:00,MAQ013,CLIENTE021,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00321,2024-03-11 08:33:00,MAQ001,CLIENTE007,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00322,2024-01-10 10:15:00,MAQ019,CLIENTE027,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00323,2024-06-19 18:37:00,MAQ018,CLIENTE049,P008,Energética,Bebida,1600,1,1600,QR,Ruta C,Biobío,Concepción,Sur
+S00324,2024-08-02 07:06:00,MAQ001,CLIENTE050,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00325,2024-11-18 12:52:00,MAQ017,CLIENTE042,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00326,2024-06-16 21:19:00,MAQ001,CLIENTE039,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00327,2024-05-28 15:39:00,MAQ016,CLIENTE016,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00328,2024-07-17 03:08:00,MAQ015,CLIENTE014,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00329,2024-07-06 13:59:00,MAQ007,CLIENTE049,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00330,2024-02-26 12:34:00,MAQ016,CLIENTE007,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00331,2024-04-03 08:52:00,MAQ018,CLIENTE046,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00332,2024-08-24 16:50:00,MAQ001,CLIENTE050,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00333,2024-08-22 15:55:00,MAQ004,CLIENTE033,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00334,2024-08-21 17:15:00,MAQ011,CLIENTE037,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00335,2024-05-27 18:09:00,MAQ014,CLIENTE046,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00336,2024-08-07 09:25:00,MAQ005,CLIENTE007,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta D,Biobío,Concepción,Sur
+S00337,2024-05-10 13:26:00,MAQ016,CLIENTE004,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00338,2024-07-04 05:31:00,MAQ018,CLIENTE022,P006,Galletas,Snack,1000,3,3000,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00339,2024-03-04 18:10:00,MAQ020,CLIENTE001,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00340,2024-09-20 15:25:00,MAQ002,CLIENTE031,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00341,2024-07-16 13:19:00,MAQ008,CLIENTE043,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta B,Araucanía,Temuco,Sur
+S00342,2024-02-29 03:26:00,MAQ002,CLIENTE038,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00343,2024-10-22 22:38:00,MAQ016,CLIENTE034,P010,Chocolate,Snack,1700,3,5100,QR,Ruta E,Araucanía,Temuco,Sur
+S00344,2024-01-14 05:49:00,MAQ013,CLIENTE003,P010,Chocolate,Snack,1700,3,5100,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00345,2024-03-30 21:36:00,MAQ009,CLIENTE012,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00346,2024-02-06 15:48:00,MAQ005,CLIENTE028,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00347,2024-03-29 06:01:00,MAQ016,CLIENTE009,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00348,2024-06-04 20:11:00,MAQ020,CLIENTE037,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00349,2024-07-01 17:01:00,MAQ014,CLIENTE014,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00350,2024-09-20 23:24:00,MAQ015,CLIENTE015,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00351,2024-12-09 14:27:00,MAQ011,CLIENTE033,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00352,2024-06-14 00:35:00,MAQ004,CLIENTE026,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00353,2024-11-02 00:44:00,MAQ013,CLIENTE027,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00354,2024-07-03 04:33:00,MAQ012,CLIENTE025,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00355,2024-09-26 19:15:00,MAQ004,CLIENTE037,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00356,2024-06-26 05:25:00,MAQ005,CLIENTE048,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00357,2024-02-13 02:42:00,MAQ003,CLIENTE026,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00358,2024-02-16 06:17:00,MAQ017,CLIENTE042,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00359,2024-01-15 12:04:00,MAQ013,CLIENTE024,P006,Galletas,Snack,1000,1,1000,QR,Ruta A,Araucanía,Temuco,Sur
+S00360,2024-07-10 01:54:00,MAQ011,CLIENTE010,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00361,2024-11-13 03:50:00,MAQ001,CLIENTE048,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00362,2024-08-06 08:22:00,MAQ005,CLIENTE032,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00363,2024-07-20 09:15:00,MAQ016,CLIENTE012,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00364,2024-03-27 15:43:00,MAQ005,CLIENTE005,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00365,2024-07-24 16:17:00,MAQ016,CLIENTE027,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Biobío,Concepción,Sur
+S00366,2024-01-27 16:05:00,MAQ010,CLIENTE018,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00367,2024-06-08 05:58:00,MAQ005,CLIENTE024,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00368,2024-10-18 09:24:00,MAQ003,CLIENTE001,P008,Energética,Bebida,1600,2,3200,QR,Ruta B,Araucanía,Temuco,Sur
+S00369,2024-11-24 02:28:00,MAQ017,CLIENTE018,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00370,2024-05-17 12:26:00,MAQ017,CLIENTE041,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00371,2024-05-27 08:37:00,MAQ009,CLIENTE018,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00372,2024-01-14 18:51:00,MAQ015,CLIENTE002,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta E,Biobío,Concepción,Sur
+S00373,2024-08-17 02:43:00,MAQ015,CLIENTE004,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00374,2024-01-30 18:29:00,MAQ020,CLIENTE009,P008,Energética,Bebida,1600,1,1600,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00375,2024-04-25 01:32:00,MAQ019,CLIENTE024,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00376,2024-01-25 08:41:00,MAQ017,CLIENTE013,P010,Chocolate,Snack,1700,1,1700,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00377,2024-01-28 02:38:00,MAQ004,CLIENTE023,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00378,2024-07-15 12:34:00,MAQ015,CLIENTE041,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00379,2024-08-29 20:48:00,MAQ012,CLIENTE027,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00380,2024-12-22 00:30:00,MAQ002,CLIENTE036,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00381,2024-11-06 07:50:00,MAQ009,CLIENTE025,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta C,Araucanía,Temuco,Sur
+S00382,2024-05-03 19:27:00,MAQ018,CLIENTE011,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00383,2024-10-16 01:20:00,MAQ007,CLIENTE008,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00384,2024-07-21 09:38:00,MAQ004,CLIENTE028,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00385,2024-03-09 13:30:00,MAQ014,CLIENTE038,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00386,2024-09-20 03:24:00,MAQ008,CLIENTE024,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta A,Araucanía,Temuco,Sur
+S00387,2024-02-23 05:01:00,MAQ001,CLIENTE027,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00388,2024-05-04 01:53:00,MAQ019,CLIENTE036,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00389,2024-02-18 17:36:00,MAQ003,CLIENTE009,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00390,2024-06-04 17:16:00,MAQ005,CLIENTE031,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta E,Araucanía,Temuco,Sur
+S00391,2024-11-20 18:14:00,MAQ010,CLIENTE047,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00392,2024-01-01 23:57:00,MAQ019,CLIENTE021,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00393,2024-08-11 07:02:00,MAQ003,CLIENTE038,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta B,Araucanía,Temuco,Sur
+S00394,2024-10-29 10:04:00,MAQ019,CLIENTE050,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00395,2024-03-24 18:42:00,MAQ007,CLIENTE007,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00396,2024-10-24 00:05:00,MAQ010,CLIENTE003,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00397,2024-05-31 12:39:00,MAQ009,CLIENTE034,P010,Chocolate,Snack,1700,3,5100,QR,Ruta C,Biobío,Concepción,Sur
+S00398,2024-05-19 04:59:00,MAQ016,CLIENTE006,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta E,Biobío,Concepción,Sur
+S00399,2024-10-03 23:33:00,MAQ009,CLIENTE010,P006,Galletas,Snack,1000,1,1000,QR,Ruta C,Biobío,Concepción,Sur
+S00400,2024-01-05 21:04:00,MAQ003,CLIENTE023,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00401,2024-09-20 09:36:00,MAQ012,CLIENTE010,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta E,Biobío,Concepción,Sur
+S00402,2024-03-30 21:06:00,MAQ017,CLIENTE002,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00403,2024-01-03 14:49:00,MAQ004,CLIENTE011,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00404,2024-10-25 19:25:00,MAQ020,CLIENTE038,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta E,Biobío,Concepción,Sur
+S00405,2024-09-02 10:53:00,MAQ017,CLIENTE029,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00406,2024-02-22 17:50:00,MAQ016,CLIENTE020,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00407,2024-11-17 07:02:00,MAQ010,CLIENTE027,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00408,2024-06-01 22:02:00,MAQ016,CLIENTE026,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00409,2024-05-04 00:11:00,MAQ018,CLIENTE024,P010,Chocolate,Snack,1700,1,1700,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00410,2024-04-26 23:07:00,MAQ001,CLIENTE018,P008,Energética,Bebida,1600,1,1600,QR,Ruta D,Araucanía,Temuco,Sur
+S00411,2024-06-23 09:38:00,MAQ004,CLIENTE004,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00412,2024-05-25 19:23:00,MAQ002,CLIENTE045,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00413,2024-05-28 09:48:00,MAQ002,CLIENTE005,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00414,2024-01-18 22:22:00,MAQ020,CLIENTE007,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00415,2024-11-25 23:54:00,MAQ008,CLIENTE037,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00416,2024-06-03 12:05:00,MAQ015,CLIENTE028,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00417,2024-05-08 02:26:00,MAQ016,CLIENTE018,P008,Energética,Bebida,1600,3,4800,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00418,2024-04-25 05:08:00,MAQ018,CLIENTE032,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00419,2024-06-02 09:14:00,MAQ010,CLIENTE005,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00420,2024-04-13 14:14:00,MAQ015,CLIENTE026,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00421,2024-10-11 04:49:00,MAQ012,CLIENTE031,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00422,2024-05-12 19:19:00,MAQ002,CLIENTE006,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00423,2024-08-27 02:56:00,MAQ013,CLIENTE023,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00424,2024-02-24 08:45:00,MAQ013,CLIENTE014,P010,Chocolate,Snack,1700,3,5100,QR,Ruta D,Biobío,Concepción,Sur
+S00425,2024-03-17 13:36:00,MAQ007,CLIENTE027,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta C,Biobío,Concepción,Sur
+S00426,2024-04-14 13:35:00,MAQ015,CLIENTE004,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00427,2024-12-21 08:47:00,MAQ005,CLIENTE041,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00428,2024-07-03 13:27:00,MAQ018,CLIENTE004,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00429,2024-05-22 10:13:00,MAQ007,CLIENTE034,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00430,2024-04-23 12:38:00,MAQ017,CLIENTE047,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00431,2024-01-04 16:22:00,MAQ012,CLIENTE043,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00432,2024-08-29 00:16:00,MAQ007,CLIENTE043,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00433,2024-11-12 08:07:00,MAQ005,CLIENTE044,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta E,Biobío,Concepción,Sur
+S00434,2024-03-07 23:35:00,MAQ007,CLIENTE043,P006,Galletas,Snack,1000,3,3000,QR,Ruta E,Biobío,Concepción,Sur
+S00435,2024-10-05 16:58:00,MAQ016,CLIENTE013,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00436,2024-08-21 06:29:00,MAQ010,CLIENTE011,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00437,2024-01-06 20:23:00,MAQ012,CLIENTE040,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00438,2024-11-10 13:34:00,MAQ004,CLIENTE016,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00439,2024-01-07 21:38:00,MAQ005,CLIENTE047,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00440,2024-03-20 01:07:00,MAQ003,CLIENTE020,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00441,2024-05-11 18:37:00,MAQ012,CLIENTE017,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00442,2024-03-29 13:10:00,MAQ019,CLIENTE011,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00443,2024-10-30 13:56:00,MAQ015,CLIENTE012,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00444,2024-07-16 07:40:00,MAQ015,CLIENTE010,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00445,2024-08-29 11:47:00,MAQ009,CLIENTE008,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00446,2024-07-28 01:48:00,MAQ012,CLIENTE042,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00447,2024-06-27 08:16:00,MAQ002,CLIENTE023,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00448,2024-05-21 17:12:00,MAQ011,CLIENTE007,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00449,2024-05-21 09:06:00,MAQ018,CLIENTE027,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00450,2024-07-16 22:00:00,MAQ002,CLIENTE043,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00451,2024-04-30 19:41:00,MAQ010,CLIENTE024,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00452,2024-12-12 21:10:00,MAQ011,CLIENTE046,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00453,2024-06-17 03:26:00,MAQ019,CLIENTE024,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00454,2024-08-25 10:28:00,MAQ003,CLIENTE005,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00455,2024-02-15 03:37:00,MAQ020,CLIENTE049,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00456,2024-08-20 19:09:00,MAQ006,CLIENTE050,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00457,2024-02-01 02:34:00,MAQ012,CLIENTE008,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00458,2024-10-24 18:30:00,MAQ016,CLIENTE010,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00459,2024-09-05 03:05:00,MAQ008,CLIENTE042,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00460,2024-11-05 09:32:00,MAQ006,CLIENTE011,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00461,2024-12-19 14:41:00,MAQ018,CLIENTE009,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00462,2024-05-20 13:24:00,MAQ015,CLIENTE037,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00463,2024-12-08 01:48:00,MAQ020,CLIENTE004,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00464,2024-02-17 14:47:00,MAQ013,CLIENTE001,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta B,Araucanía,Temuco,Sur
+S00465,2024-08-03 10:42:00,MAQ013,CLIENTE048,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00466,2024-02-13 01:42:00,MAQ017,CLIENTE026,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta B,Biobío,Concepción,Sur
+S00467,2024-09-22 02:18:00,MAQ011,CLIENTE006,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00468,2024-08-09 19:09:00,MAQ014,CLIENTE012,P010,Chocolate,Snack,1700,1,1700,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00469,2024-02-16 05:58:00,MAQ015,CLIENTE004,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00470,2024-11-30 04:01:00,MAQ006,CLIENTE014,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta E,Araucanía,Temuco,Sur
+S00471,2024-04-10 08:16:00,MAQ019,CLIENTE023,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00472,2024-08-09 19:24:00,MAQ009,CLIENTE001,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00473,2024-12-22 16:33:00,MAQ011,CLIENTE015,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00474,2024-07-08 11:30:00,MAQ010,CLIENTE047,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00475,2024-07-16 20:35:00,MAQ020,CLIENTE044,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta D,Biobío,Concepción,Sur
+S00476,2024-05-20 09:03:00,MAQ003,CLIENTE029,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00477,2024-07-22 07:03:00,MAQ017,CLIENTE012,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00478,2024-03-26 07:30:00,MAQ008,CLIENTE015,P010,Chocolate,Snack,1700,1,1700,QR,Ruta E,Araucanía,Temuco,Sur
+S00479,2024-11-10 16:52:00,MAQ011,CLIENTE019,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00480,2024-12-29 04:08:00,MAQ013,CLIENTE032,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta E,Biobío,Concepción,Sur
+S00481,2024-10-21 21:06:00,MAQ008,CLIENTE009,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00482,2024-02-19 22:26:00,MAQ016,CLIENTE050,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00483,2024-08-16 03:22:00,MAQ011,CLIENTE044,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00484,2024-04-21 05:17:00,MAQ014,CLIENTE035,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00485,2024-02-05 09:01:00,MAQ020,CLIENTE042,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00486,2024-03-15 16:02:00,MAQ018,CLIENTE012,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00487,2024-01-27 01:07:00,MAQ017,CLIENTE004,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00488,2024-12-01 02:14:00,MAQ002,CLIENTE046,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00489,2024-04-17 20:37:00,MAQ015,CLIENTE024,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00490,2024-01-11 15:08:00,MAQ012,CLIENTE020,P008,Energética,Bebida,1600,3,4800,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00491,2024-11-24 06:38:00,MAQ007,CLIENTE027,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00492,2024-06-05 17:46:00,MAQ012,CLIENTE050,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00493,2024-06-08 07:17:00,MAQ012,CLIENTE035,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00494,2024-08-30 01:03:00,MAQ016,CLIENTE012,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00495,2024-10-22 11:06:00,MAQ013,CLIENTE029,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00496,2024-07-22 03:00:00,MAQ002,CLIENTE006,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00497,2024-05-09 23:16:00,MAQ009,CLIENTE022,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00498,2024-03-30 09:49:00,MAQ004,CLIENTE026,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00499,2024-04-29 05:33:00,MAQ005,CLIENTE044,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00500,2024-04-08 04:45:00,MAQ007,CLIENTE033,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00501,2024-05-07 19:49:00,MAQ007,CLIENTE019,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00502,2024-01-21 20:54:00,MAQ019,CLIENTE013,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00503,2024-12-27 01:31:00,MAQ020,CLIENTE030,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00504,2024-07-21 21:31:00,MAQ016,CLIENTE001,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00505,2024-08-04 11:18:00,MAQ013,CLIENTE023,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00506,2024-11-08 00:39:00,MAQ009,CLIENTE011,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00507,2024-04-06 07:19:00,MAQ013,CLIENTE005,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00508,2024-02-21 05:41:00,MAQ016,CLIENTE009,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta E,Biobío,Concepción,Sur
+S00509,2024-07-19 01:56:00,MAQ005,CLIENTE006,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00510,2024-10-02 00:46:00,MAQ007,CLIENTE011,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00511,2024-11-14 19:09:00,MAQ002,CLIENTE025,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Araucanía,Temuco,Sur
+S00512,2024-01-31 09:32:00,MAQ019,CLIENTE010,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00513,2024-05-18 17:28:00,MAQ014,CLIENTE023,P010,Chocolate,Snack,1700,1,1700,QR,Ruta B,Biobío,Concepción,Sur
+S00514,2024-11-28 20:03:00,MAQ014,CLIENTE043,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00515,2024-09-28 16:07:00,MAQ017,CLIENTE029,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00516,2024-12-30 09:36:00,MAQ018,CLIENTE031,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00517,2024-06-06 12:20:00,MAQ014,CLIENTE050,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00518,2024-02-25 03:06:00,MAQ005,CLIENTE028,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00519,2024-05-01 15:27:00,MAQ003,CLIENTE020,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00520,2024-09-11 13:21:00,MAQ003,CLIENTE013,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00521,2024-06-27 17:04:00,MAQ020,CLIENTE032,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00522,2024-07-16 16:34:00,MAQ011,CLIENTE045,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00523,2024-07-23 07:49:00,MAQ008,CLIENTE043,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00524,2024-07-31 18:13:00,MAQ009,CLIENTE007,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00525,2024-01-16 22:31:00,MAQ008,CLIENTE004,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00526,2024-10-09 20:31:00,MAQ008,CLIENTE039,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00527,2024-07-23 06:52:00,MAQ003,CLIENTE036,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00528,2024-05-19 00:34:00,MAQ006,CLIENTE007,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00529,2024-10-24 19:43:00,MAQ002,CLIENTE045,P008,Energética,Bebida,1600,3,4800,QR,Ruta E,Biobío,Concepción,Sur
+S00530,2024-07-31 03:51:00,MAQ002,CLIENTE023,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00531,2024-11-16 17:24:00,MAQ019,CLIENTE016,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00532,2024-08-09 05:29:00,MAQ008,CLIENTE009,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00533,2024-08-07 14:00:00,MAQ005,CLIENTE046,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00534,2024-11-25 05:44:00,MAQ004,CLIENTE016,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00535,2024-07-19 09:24:00,MAQ002,CLIENTE021,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00536,2024-12-07 03:48:00,MAQ014,CLIENTE045,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00537,2024-04-08 18:09:00,MAQ008,CLIENTE034,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00538,2024-02-06 21:55:00,MAQ012,CLIENTE001,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00539,2024-04-21 23:27:00,MAQ012,CLIENTE034,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00540,2024-05-06 07:14:00,MAQ017,CLIENTE034,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta E,Araucanía,Temuco,Sur
+S00541,2024-07-29 21:32:00,MAQ004,CLIENTE001,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00542,2024-11-10 00:53:00,MAQ019,CLIENTE009,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00543,2024-03-06 06:34:00,MAQ013,CLIENTE045,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00544,2024-04-24 17:31:00,MAQ020,CLIENTE006,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00545,2024-09-10 17:44:00,MAQ004,CLIENTE050,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00546,2024-12-03 01:49:00,MAQ017,CLIENTE008,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00547,2024-09-14 03:54:00,MAQ017,CLIENTE024,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00548,2024-10-17 19:28:00,MAQ020,CLIENTE011,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00549,2024-06-19 19:19:00,MAQ007,CLIENTE019,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00550,2024-06-23 11:34:00,MAQ019,CLIENTE013,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00551,2024-04-05 07:30:00,MAQ001,CLIENTE029,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00552,2024-11-04 12:55:00,MAQ005,CLIENTE036,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00553,2024-09-19 14:28:00,MAQ014,CLIENTE012,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00554,2024-02-04 09:22:00,MAQ016,CLIENTE025,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00555,2024-02-19 04:12:00,MAQ007,CLIENTE034,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00556,2024-05-10 02:36:00,MAQ001,CLIENTE001,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00557,2024-07-19 23:28:00,MAQ009,CLIENTE048,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00558,2024-01-05 19:12:00,MAQ001,CLIENTE030,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00559,2024-07-02 13:31:00,MAQ020,CLIENTE014,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00560,2024-07-18 06:22:00,MAQ015,CLIENTE013,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00561,2024-03-05 03:42:00,MAQ012,CLIENTE050,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00562,2024-08-22 08:51:00,MAQ019,CLIENTE049,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00563,2024-04-27 05:30:00,MAQ001,CLIENTE014,P008,Energética,Bebida,1600,3,4800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00564,2024-06-30 08:27:00,MAQ004,CLIENTE031,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00565,2024-07-31 04:17:00,MAQ013,CLIENTE020,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00566,2024-06-22 18:58:00,MAQ019,CLIENTE032,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00567,2024-10-05 12:37:00,MAQ011,CLIENTE031,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta E,Araucanía,Temuco,Sur
+S00568,2024-07-11 10:26:00,MAQ018,CLIENTE043,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta D,Araucanía,Temuco,Sur
+S00569,2024-02-25 01:44:00,MAQ011,CLIENTE023,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00570,2024-12-01 13:59:00,MAQ002,CLIENTE021,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00571,2024-07-16 08:49:00,MAQ017,CLIENTE036,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00572,2024-05-16 13:30:00,MAQ010,CLIENTE046,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00573,2024-02-08 16:48:00,MAQ008,CLIENTE028,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00574,2024-12-21 23:43:00,MAQ012,CLIENTE035,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00575,2024-06-02 00:49:00,MAQ020,CLIENTE019,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00576,2024-11-07 12:28:00,MAQ003,CLIENTE003,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00577,2024-04-15 01:50:00,MAQ005,CLIENTE025,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00578,2024-07-30 11:19:00,MAQ001,CLIENTE026,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00579,2024-01-10 07:24:00,MAQ016,CLIENTE021,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00580,2024-03-13 14:33:00,MAQ004,CLIENTE030,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00581,2024-07-17 01:48:00,MAQ011,CLIENTE033,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00582,2024-03-01 17:07:00,MAQ006,CLIENTE005,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00583,2024-05-21 12:12:00,MAQ008,CLIENTE037,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00584,2024-02-04 06:27:00,MAQ018,CLIENTE018,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00585,2024-04-18 22:41:00,MAQ006,CLIENTE047,P010,Chocolate,Snack,1700,2,3400,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00586,2024-02-12 12:48:00,MAQ019,CLIENTE046,P010,Chocolate,Snack,1700,2,3400,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00587,2024-02-14 17:57:00,MAQ007,CLIENTE031,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00588,2024-10-16 05:50:00,MAQ015,CLIENTE013,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00589,2024-01-28 07:33:00,MAQ004,CLIENTE024,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00590,2024-07-06 18:50:00,MAQ006,CLIENTE020,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00591,2024-12-17 22:12:00,MAQ016,CLIENTE010,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00592,2024-05-15 01:40:00,MAQ002,CLIENTE044,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00593,2024-04-30 13:51:00,MAQ005,CLIENTE020,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00594,2024-09-27 13:14:00,MAQ007,CLIENTE018,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00595,2024-08-29 00:49:00,MAQ010,CLIENTE044,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00596,2024-08-25 03:04:00,MAQ015,CLIENTE005,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00597,2024-07-12 04:58:00,MAQ003,CLIENTE026,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00598,2024-06-09 13:06:00,MAQ013,CLIENTE001,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00599,2024-04-18 21:28:00,MAQ005,CLIENTE019,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00600,2024-10-18 17:02:00,MAQ013,CLIENTE004,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00601,2024-12-04 11:54:00,MAQ018,CLIENTE048,P008,Energética,Bebida,1600,1,1600,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00602,2024-02-22 22:32:00,MAQ004,CLIENTE015,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00603,2024-06-25 04:09:00,MAQ017,CLIENTE012,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00604,2024-09-30 13:03:00,MAQ008,CLIENTE050,P010,Chocolate,Snack,1700,1,1700,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00605,2024-06-09 03:47:00,MAQ007,CLIENTE043,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00606,2024-02-23 06:37:00,MAQ006,CLIENTE037,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00607,2024-09-07 18:02:00,MAQ013,CLIENTE007,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00608,2024-09-20 15:04:00,MAQ005,CLIENTE035,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00609,2024-08-03 19:47:00,MAQ004,CLIENTE033,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00610,2024-05-28 16:45:00,MAQ005,CLIENTE013,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00611,2024-06-05 01:30:00,MAQ008,CLIENTE018,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta E,Araucanía,Temuco,Sur
+S00612,2024-03-19 19:48:00,MAQ005,CLIENTE037,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00613,2024-10-21 04:31:00,MAQ002,CLIENTE036,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00614,2024-01-22 16:34:00,MAQ007,CLIENTE018,P010,Chocolate,Snack,1700,1,1700,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00615,2024-09-09 15:08:00,MAQ012,CLIENTE033,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00616,2024-07-06 04:05:00,MAQ018,CLIENTE025,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00617,2024-10-10 11:58:00,MAQ014,CLIENTE001,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00618,2024-06-21 09:55:00,MAQ005,CLIENTE027,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta B,Biobío,Concepción,Sur
+S00619,2024-06-20 19:29:00,MAQ018,CLIENTE044,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00620,2024-06-10 03:44:00,MAQ018,CLIENTE035,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta B,Biobío,Concepción,Sur
+S00621,2024-09-19 22:29:00,MAQ008,CLIENTE014,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00622,2024-05-26 03:38:00,MAQ009,CLIENTE028,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta D,Biobío,Concepción,Sur
+S00623,2024-05-30 08:44:00,MAQ015,CLIENTE011,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00624,2024-10-29 16:45:00,MAQ010,CLIENTE033,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00625,2024-11-29 07:48:00,MAQ013,CLIENTE035,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00626,2024-07-10 07:32:00,MAQ008,CLIENTE037,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00627,2024-10-12 19:32:00,MAQ015,CLIENTE042,P006,Galletas,Snack,1000,2,2000,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00628,2024-09-29 09:31:00,MAQ013,CLIENTE044,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00629,2024-06-02 21:10:00,MAQ003,CLIENTE013,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00630,2024-06-08 12:36:00,MAQ008,CLIENTE042,P010,Chocolate,Snack,1700,1,1700,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00631,2024-05-25 17:06:00,MAQ011,CLIENTE003,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta C,Araucanía,Temuco,Sur
+S00632,2024-06-22 20:42:00,MAQ003,CLIENTE009,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00633,2024-10-07 18:45:00,MAQ002,CLIENTE030,P006,Galletas,Snack,1000,2,2000,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00634,2024-09-29 05:15:00,MAQ016,CLIENTE048,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00635,2024-04-14 14:33:00,MAQ006,CLIENTE005,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00636,2024-06-25 16:41:00,MAQ019,CLIENTE006,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00637,2024-09-01 17:17:00,MAQ011,CLIENTE011,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00638,2024-06-24 05:59:00,MAQ007,CLIENTE028,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00639,2024-11-20 13:14:00,MAQ016,CLIENTE011,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta E,Biobío,Concepción,Sur
+S00640,2024-02-01 07:46:00,MAQ001,CLIENTE040,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta E,Biobío,Concepción,Sur
+S00641,2024-04-03 18:11:00,MAQ015,CLIENTE021,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00642,2024-12-18 18:36:00,MAQ020,CLIENTE010,P010,Chocolate,Snack,1700,2,3400,QR,Ruta C,Biobío,Concepción,Sur
+S00643,2024-11-09 19:29:00,MAQ011,CLIENTE020,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00644,2024-09-21 02:53:00,MAQ018,CLIENTE029,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00645,2024-08-04 23:24:00,MAQ006,CLIENTE004,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00646,2024-11-19 06:39:00,MAQ013,CLIENTE048,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00647,2024-07-27 23:44:00,MAQ005,CLIENTE048,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00648,2024-07-14 20:58:00,MAQ010,CLIENTE036,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00649,2024-10-02 19:47:00,MAQ007,CLIENTE039,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00650,2024-08-01 22:16:00,MAQ005,CLIENTE050,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00651,2024-08-19 05:17:00,MAQ006,CLIENTE003,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00652,2024-03-07 17:07:00,MAQ001,CLIENTE011,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00653,2024-05-19 19:54:00,MAQ002,CLIENTE034,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00654,2024-11-28 01:35:00,MAQ013,CLIENTE022,P008,Energética,Bebida,1600,3,4800,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00655,2024-09-07 18:15:00,MAQ012,CLIENTE036,P008,Energética,Bebida,1600,3,4800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00656,2024-08-10 15:23:00,MAQ011,CLIENTE045,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta B,Biobío,Concepción,Sur
+S00657,2024-01-12 14:51:00,MAQ015,CLIENTE024,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00658,2024-10-20 10:34:00,MAQ011,CLIENTE022,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00659,2024-02-15 13:22:00,MAQ001,CLIENTE035,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00660,2024-02-09 17:21:00,MAQ017,CLIENTE014,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00661,2024-09-20 03:25:00,MAQ020,CLIENTE040,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00662,2024-11-28 04:25:00,MAQ019,CLIENTE007,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00663,2024-06-15 00:11:00,MAQ006,CLIENTE027,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00664,2024-03-30 15:27:00,MAQ020,CLIENTE040,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00665,2024-08-07 10:06:00,MAQ002,CLIENTE006,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00666,2024-02-12 21:41:00,MAQ015,CLIENTE014,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00667,2024-04-15 08:52:00,MAQ011,CLIENTE049,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00668,2024-11-02 14:19:00,MAQ019,CLIENTE038,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00669,2024-12-30 10:37:00,MAQ007,CLIENTE032,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00670,2024-09-30 11:21:00,MAQ006,CLIENTE002,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00671,2024-10-16 11:22:00,MAQ014,CLIENTE041,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00672,2024-08-10 17:06:00,MAQ015,CLIENTE035,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00673,2024-12-14 01:15:00,MAQ014,CLIENTE022,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00674,2024-10-30 23:03:00,MAQ020,CLIENTE006,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00675,2024-11-30 17:53:00,MAQ006,CLIENTE024,P008,Energética,Bebida,1600,1,1600,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00676,2024-01-23 14:55:00,MAQ015,CLIENTE015,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00677,2024-01-12 23:16:00,MAQ005,CLIENTE002,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00678,2024-10-01 11:09:00,MAQ007,CLIENTE045,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00679,2024-12-06 01:53:00,MAQ013,CLIENTE033,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00680,2024-04-16 00:11:00,MAQ001,CLIENTE020,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00681,2024-03-30 01:48:00,MAQ003,CLIENTE025,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00682,2024-12-18 22:35:00,MAQ018,CLIENTE006,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00683,2024-05-30 04:24:00,MAQ002,CLIENTE022,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00684,2024-02-04 05:38:00,MAQ012,CLIENTE031,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00685,2024-10-16 08:48:00,MAQ020,CLIENTE006,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00686,2024-02-25 05:40:00,MAQ002,CLIENTE048,P001,Coca-Cola,Bebida,1200,2,2400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00687,2024-12-15 20:21:00,MAQ002,CLIENTE008,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00688,2024-09-28 18:48:00,MAQ017,CLIENTE042,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00689,2024-05-29 16:10:00,MAQ019,CLIENTE038,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00690,2024-09-13 04:23:00,MAQ007,CLIENTE010,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00691,2024-06-21 16:08:00,MAQ006,CLIENTE026,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta B,Biobío,Concepción,Sur
+S00692,2024-09-08 12:07:00,MAQ016,CLIENTE007,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00693,2024-07-03 18:34:00,MAQ016,CLIENTE014,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00694,2024-09-23 03:23:00,MAQ012,CLIENTE022,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00695,2024-04-30 15:31:00,MAQ003,CLIENTE047,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00696,2024-10-15 23:34:00,MAQ014,CLIENTE049,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00697,2024-01-25 10:26:00,MAQ016,CLIENTE001,P006,Galletas,Snack,1000,1,1000,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00698,2024-01-07 02:13:00,MAQ004,CLIENTE008,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00699,2024-09-01 16:56:00,MAQ013,CLIENTE005,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00700,2024-12-13 18:45:00,MAQ004,CLIENTE027,P006,Galletas,Snack,1000,1,1000,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S00701,2024-01-28 13:43:00,MAQ011,CLIENTE017,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00702,2024-12-13 22:21:00,MAQ005,CLIENTE031,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta B,Biobío,Concepción,Sur
+S00703,2024-06-07 22:38:00,MAQ009,CLIENTE025,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S00704,2024-01-24 15:16:00,MAQ006,CLIENTE044,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00705,2024-11-11 17:51:00,MAQ007,CLIENTE014,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00706,2024-10-26 12:09:00,MAQ017,CLIENTE044,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00707,2024-12-20 21:49:00,MAQ004,CLIENTE044,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta B,Biobío,Concepción,Sur
+S00708,2024-08-03 05:16:00,MAQ001,CLIENTE021,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00709,2024-08-22 06:07:00,MAQ012,CLIENTE030,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00710,2024-04-09 11:29:00,MAQ013,CLIENTE002,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00711,2024-10-14 12:09:00,MAQ007,CLIENTE020,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00712,2024-01-21 18:12:00,MAQ006,CLIENTE040,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00713,2024-05-06 17:59:00,MAQ020,CLIENTE033,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00714,2024-03-07 12:54:00,MAQ001,CLIENTE007,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00715,2024-05-30 21:27:00,MAQ015,CLIENTE048,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00716,2024-10-08 20:00:00,MAQ011,CLIENTE050,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta E,Araucanía,Temuco,Sur
+S00717,2024-01-12 18:11:00,MAQ003,CLIENTE018,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00718,2024-05-07 13:21:00,MAQ004,CLIENTE019,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta C,Araucanía,Temuco,Sur
+S00719,2024-05-18 04:44:00,MAQ003,CLIENTE046,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00720,2024-10-04 04:11:00,MAQ014,CLIENTE049,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00721,2024-12-22 21:21:00,MAQ009,CLIENTE026,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00722,2024-05-08 12:04:00,MAQ019,CLIENTE048,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00723,2024-02-23 02:22:00,MAQ014,CLIENTE038,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00724,2024-09-20 01:35:00,MAQ019,CLIENTE029,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00725,2024-03-21 09:25:00,MAQ018,CLIENTE050,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00726,2024-04-12 07:51:00,MAQ002,CLIENTE023,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00727,2024-04-04 23:17:00,MAQ020,CLIENTE043,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00728,2024-03-06 02:22:00,MAQ005,CLIENTE026,P006,Galletas,Snack,1000,3,3000,QR,Ruta E,Araucanía,Temuco,Sur
+S00729,2024-06-08 08:00:00,MAQ019,CLIENTE007,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00730,2024-07-16 08:07:00,MAQ013,CLIENTE039,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00731,2024-12-12 00:07:00,MAQ001,CLIENTE014,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta A,Biobío,Concepción,Sur
+S00732,2024-06-25 05:05:00,MAQ008,CLIENTE045,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta B,Araucanía,Temuco,Sur
+S00733,2024-08-28 09:56:00,MAQ017,CLIENTE047,P008,Energética,Bebida,1600,1,1600,QR,Ruta E,Biobío,Concepción,Sur
+S00734,2024-01-15 12:15:00,MAQ007,CLIENTE032,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00735,2024-02-09 02:04:00,MAQ017,CLIENTE020,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00736,2024-06-24 02:28:00,MAQ019,CLIENTE022,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00737,2024-02-06 20:51:00,MAQ019,CLIENTE020,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00738,2024-03-17 05:46:00,MAQ012,CLIENTE026,P008,Energética,Bebida,1600,1,1600,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S00739,2024-08-12 08:13:00,MAQ016,CLIENTE002,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00740,2024-01-09 03:49:00,MAQ014,CLIENTE002,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00741,2024-04-26 17:55:00,MAQ003,CLIENTE047,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta A,Biobío,Concepción,Sur
+S00742,2024-02-25 00:10:00,MAQ015,CLIENTE024,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00743,2024-05-04 05:40:00,MAQ020,CLIENTE030,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00744,2024-09-05 19:57:00,MAQ012,CLIENTE016,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00745,2024-07-15 03:42:00,MAQ006,CLIENTE015,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00746,2024-06-10 09:45:00,MAQ012,CLIENTE037,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00747,2024-03-03 12:01:00,MAQ002,CLIENTE048,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00748,2024-12-04 03:02:00,MAQ018,CLIENTE013,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00749,2024-10-29 06:15:00,MAQ014,CLIENTE046,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00750,2024-08-07 10:50:00,MAQ015,CLIENTE005,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta A,Biobío,Concepción,Sur
+S00751,2024-10-11 08:06:00,MAQ019,CLIENTE043,P008,Energética,Bebida,1600,2,3200,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00752,2024-04-30 14:36:00,MAQ004,CLIENTE044,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00753,2024-11-27 15:04:00,MAQ010,CLIENTE033,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00754,2024-05-27 04:11:00,MAQ003,CLIENTE002,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta D,Biobío,Concepción,Sur
+S00755,2024-05-17 20:53:00,MAQ020,CLIENTE049,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00756,2024-12-28 16:58:00,MAQ008,CLIENTE007,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00757,2024-01-20 09:56:00,MAQ016,CLIENTE045,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00758,2024-02-13 01:45:00,MAQ016,CLIENTE033,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00759,2024-01-15 12:35:00,MAQ004,CLIENTE022,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00760,2024-07-03 08:21:00,MAQ011,CLIENTE035,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00761,2024-08-11 09:18:00,MAQ017,CLIENTE025,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00762,2024-03-22 18:35:00,MAQ019,CLIENTE010,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00763,2024-11-13 15:00:00,MAQ014,CLIENTE004,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00764,2024-09-20 21:53:00,MAQ017,CLIENTE007,P010,Chocolate,Snack,1700,3,5100,QR,Ruta D,Biobío,Concepción,Sur
+S00765,2024-04-27 05:14:00,MAQ009,CLIENTE003,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00766,2024-04-27 05:56:00,MAQ014,CLIENTE012,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00767,2024-07-20 08:22:00,MAQ006,CLIENTE006,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00768,2024-11-19 04:56:00,MAQ019,CLIENTE035,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta A,Biobío,Concepción,Sur
+S00769,2024-03-23 16:52:00,MAQ010,CLIENTE002,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00770,2024-01-05 11:26:00,MAQ002,CLIENTE008,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00771,2024-01-23 06:01:00,MAQ016,CLIENTE039,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00772,2024-09-08 16:16:00,MAQ014,CLIENTE043,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00773,2024-12-25 20:03:00,MAQ015,CLIENTE039,P010,Chocolate,Snack,1700,1,1700,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00774,2024-03-07 14:11:00,MAQ004,CLIENTE013,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00775,2024-11-25 20:13:00,MAQ001,CLIENTE043,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00776,2024-12-02 11:17:00,MAQ002,CLIENTE010,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00777,2024-04-15 16:11:00,MAQ019,CLIENTE005,P006,Galletas,Snack,1000,3,3000,QR,Ruta B,Araucanía,Temuco,Sur
+S00778,2024-11-19 11:39:00,MAQ002,CLIENTE050,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00779,2024-09-29 13:57:00,MAQ020,CLIENTE049,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00780,2024-08-01 23:02:00,MAQ005,CLIENTE024,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00781,2024-11-08 15:02:00,MAQ008,CLIENTE049,P010,Chocolate,Snack,1700,2,3400,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00782,2024-01-08 19:28:00,MAQ012,CLIENTE031,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00783,2024-10-11 17:03:00,MAQ017,CLIENTE046,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00784,2024-11-09 04:20:00,MAQ012,CLIENTE026,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00785,2024-05-14 23:10:00,MAQ014,CLIENTE012,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00786,2024-01-09 08:55:00,MAQ011,CLIENTE015,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta D,Araucanía,Temuco,Sur
+S00787,2024-12-15 02:41:00,MAQ020,CLIENTE043,P010,Chocolate,Snack,1700,3,5100,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00788,2024-12-12 21:37:00,MAQ011,CLIENTE025,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00789,2024-04-27 05:32:00,MAQ004,CLIENTE015,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00790,2024-07-15 10:16:00,MAQ009,CLIENTE014,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta B,Biobío,Concepción,Sur
+S00791,2024-03-09 14:54:00,MAQ007,CLIENTE025,P010,Chocolate,Snack,1700,1,1700,QR,Ruta C,Araucanía,Temuco,Sur
+S00792,2024-10-08 09:33:00,MAQ008,CLIENTE049,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S00793,2024-06-17 05:56:00,MAQ018,CLIENTE044,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta A,Araucanía,Temuco,Sur
+S00794,2024-12-27 09:58:00,MAQ010,CLIENTE013,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00795,2024-07-18 05:11:00,MAQ006,CLIENTE013,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta C,Biobío,Concepción,Sur
+S00796,2024-09-10 21:17:00,MAQ020,CLIENTE026,P008,Energética,Bebida,1600,1,1600,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00797,2024-12-21 05:19:00,MAQ016,CLIENTE036,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00798,2024-12-12 08:27:00,MAQ019,CLIENTE003,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00799,2024-11-11 15:50:00,MAQ018,CLIENTE022,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta E,Araucanía,Temuco,Sur
+S00800,2024-02-28 18:11:00,MAQ009,CLIENTE028,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00801,2024-07-13 01:02:00,MAQ019,CLIENTE044,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00802,2024-10-09 11:44:00,MAQ011,CLIENTE029,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta A,Araucanía,Temuco,Sur
+S00803,2024-07-25 08:56:00,MAQ005,CLIENTE031,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00804,2024-06-13 18:56:00,MAQ018,CLIENTE045,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00805,2024-08-25 08:31:00,MAQ007,CLIENTE022,P008,Energética,Bebida,1600,2,3200,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00806,2024-02-04 10:10:00,MAQ014,CLIENTE035,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00807,2024-04-27 12:37:00,MAQ018,CLIENTE014,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00808,2024-03-25 22:55:00,MAQ016,CLIENTE004,P008,Energética,Bebida,1600,2,3200,QR,Ruta C,Biobío,Concepción,Sur
+S00809,2024-09-06 16:56:00,MAQ017,CLIENTE010,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta C,Biobío,Concepción,Sur
+S00810,2024-04-29 08:06:00,MAQ012,CLIENTE007,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00811,2024-11-12 15:26:00,MAQ006,CLIENTE026,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00812,2024-07-15 00:10:00,MAQ016,CLIENTE017,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00813,2024-11-10 16:15:00,MAQ004,CLIENTE013,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00814,2024-12-16 20:21:00,MAQ020,CLIENTE020,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00815,2024-08-29 03:20:00,MAQ019,CLIENTE030,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S00816,2024-07-23 12:42:00,MAQ016,CLIENTE004,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00817,2024-03-11 01:30:00,MAQ015,CLIENTE029,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00818,2024-05-12 20:31:00,MAQ004,CLIENTE044,P008,Energética,Bebida,1600,2,3200,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00819,2024-07-29 12:13:00,MAQ005,CLIENTE049,P006,Galletas,Snack,1000,1,1000,QR,Ruta C,Araucanía,Temuco,Sur
+S00820,2024-05-01 11:09:00,MAQ018,CLIENTE042,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00821,2024-11-06 00:57:00,MAQ013,CLIENTE017,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00822,2024-10-25 21:12:00,MAQ017,CLIENTE043,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00823,2024-03-18 08:15:00,MAQ011,CLIENTE049,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00824,2024-03-10 04:00:00,MAQ013,CLIENTE022,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00825,2024-04-15 02:31:00,MAQ013,CLIENTE027,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00826,2024-02-27 03:37:00,MAQ012,CLIENTE016,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00827,2024-01-02 03:25:00,MAQ009,CLIENTE035,P006,Galletas,Snack,1000,2,2000,QR,Ruta C,Araucanía,Temuco,Sur
+S00828,2024-11-01 03:05:00,MAQ020,CLIENTE022,P008,Energética,Bebida,1600,1,1600,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00829,2024-04-12 03:39:00,MAQ014,CLIENTE017,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00830,2024-12-23 04:41:00,MAQ018,CLIENTE047,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00831,2024-03-06 01:33:00,MAQ008,CLIENTE001,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00832,2024-03-14 15:11:00,MAQ007,CLIENTE010,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00833,2024-12-22 01:14:00,MAQ011,CLIENTE017,P010,Chocolate,Snack,1700,3,5100,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00834,2024-12-07 05:42:00,MAQ018,CLIENTE023,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00835,2024-09-22 07:21:00,MAQ003,CLIENTE047,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00836,2024-04-19 08:52:00,MAQ006,CLIENTE033,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S00837,2024-07-22 22:37:00,MAQ003,CLIENTE034,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00838,2024-08-09 07:26:00,MAQ001,CLIENTE045,P008,Energética,Bebida,1600,3,4800,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00839,2024-01-01 09:53:00,MAQ012,CLIENTE006,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00840,2024-04-09 14:19:00,MAQ008,CLIENTE023,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00841,2024-07-06 14:11:00,MAQ001,CLIENTE012,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00842,2024-07-19 10:48:00,MAQ018,CLIENTE030,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00843,2024-04-23 05:15:00,MAQ007,CLIENTE030,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00844,2024-03-07 21:26:00,MAQ019,CLIENTE011,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00845,2024-12-22 00:55:00,MAQ008,CLIENTE036,P010,Chocolate,Snack,1700,3,5100,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00846,2024-05-29 05:36:00,MAQ010,CLIENTE044,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00847,2024-01-09 17:03:00,MAQ009,CLIENTE026,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00848,2024-05-26 12:15:00,MAQ004,CLIENTE046,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00849,2024-03-10 03:05:00,MAQ003,CLIENTE037,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00850,2024-03-22 22:50:00,MAQ001,CLIENTE025,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00851,2024-03-22 02:40:00,MAQ017,CLIENTE010,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00852,2024-09-15 17:15:00,MAQ004,CLIENTE010,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00853,2024-12-04 18:28:00,MAQ014,CLIENTE008,P010,Chocolate,Snack,1700,2,3400,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00854,2024-11-16 00:04:00,MAQ001,CLIENTE025,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S00855,2024-12-27 00:25:00,MAQ012,CLIENTE048,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00856,2024-03-15 10:04:00,MAQ002,CLIENTE012,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00857,2024-11-12 13:15:00,MAQ002,CLIENTE047,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S00858,2024-08-06 09:08:00,MAQ008,CLIENTE002,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00859,2024-02-27 01:56:00,MAQ003,CLIENTE041,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00860,2024-12-13 08:15:00,MAQ007,CLIENTE034,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta E,Biobío,Concepción,Sur
+S00861,2024-07-15 00:19:00,MAQ010,CLIENTE035,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00862,2024-06-07 18:57:00,MAQ018,CLIENTE034,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00863,2024-11-22 16:06:00,MAQ006,CLIENTE003,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00864,2024-09-04 13:56:00,MAQ009,CLIENTE013,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00865,2024-07-12 20:45:00,MAQ011,CLIENTE036,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00866,2024-04-08 23:06:00,MAQ019,CLIENTE038,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00867,2024-11-02 01:46:00,MAQ020,CLIENTE017,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00868,2024-04-26 20:01:00,MAQ012,CLIENTE036,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00869,2024-03-10 21:24:00,MAQ012,CLIENTE008,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00870,2024-10-29 11:15:00,MAQ009,CLIENTE004,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00871,2024-04-19 08:30:00,MAQ010,CLIENTE039,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00872,2024-04-04 17:23:00,MAQ008,CLIENTE037,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00873,2024-02-02 04:24:00,MAQ002,CLIENTE029,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00874,2024-10-02 10:52:00,MAQ004,CLIENTE040,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S00875,2024-10-17 13:58:00,MAQ011,CLIENTE032,P006,Galletas,Snack,1000,2,2000,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S00876,2024-07-07 06:42:00,MAQ018,CLIENTE008,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00877,2024-11-14 10:06:00,MAQ014,CLIENTE022,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta C,Biobío,Concepción,Sur
+S00878,2024-01-27 14:39:00,MAQ006,CLIENTE010,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00879,2024-08-02 05:28:00,MAQ002,CLIENTE043,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00880,2024-05-16 23:46:00,MAQ004,CLIENTE032,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00881,2024-04-14 20:37:00,MAQ007,CLIENTE034,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S00882,2024-05-15 12:08:00,MAQ012,CLIENTE008,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00883,2024-03-23 01:39:00,MAQ008,CLIENTE044,P006,Galletas,Snack,1000,2,2000,QR,Ruta E,Biobío,Concepción,Sur
+S00884,2024-04-12 05:39:00,MAQ006,CLIENTE002,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00885,2024-06-13 02:10:00,MAQ007,CLIENTE014,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00886,2024-12-20 10:01:00,MAQ002,CLIENTE009,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S00887,2024-09-15 08:05:00,MAQ013,CLIENTE015,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00888,2024-09-01 10:30:00,MAQ014,CLIENTE004,P008,Energética,Bebida,1600,3,4800,QR,Ruta E,Biobío,Concepción,Sur
+S00889,2024-01-14 16:13:00,MAQ003,CLIENTE001,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00890,2024-07-21 10:20:00,MAQ008,CLIENTE020,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00891,2024-06-08 09:31:00,MAQ002,CLIENTE007,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00892,2024-04-05 15:06:00,MAQ004,CLIENTE040,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00893,2024-02-16 17:14:00,MAQ010,CLIENTE033,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00894,2024-05-22 02:53:00,MAQ010,CLIENTE027,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S00895,2024-01-05 12:25:00,MAQ009,CLIENTE002,P008,Energética,Bebida,1600,2,3200,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S00896,2024-07-21 03:54:00,MAQ009,CLIENTE014,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S00897,2024-12-08 03:04:00,MAQ006,CLIENTE004,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta C,Biobío,Concepción,Sur
+S00898,2024-02-02 11:14:00,MAQ017,CLIENTE043,P008,Energética,Bebida,1600,1,1600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00899,2024-09-15 18:52:00,MAQ012,CLIENTE019,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S00900,2024-04-04 05:34:00,MAQ019,CLIENTE022,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00901,2024-02-20 02:05:00,MAQ001,CLIENTE045,P006,Galletas,Snack,1000,3,3000,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00902,2024-06-25 20:01:00,MAQ019,CLIENTE018,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta E,Araucanía,Temuco,Sur
+S00903,2024-11-26 12:33:00,MAQ006,CLIENTE021,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00904,2024-04-01 20:41:00,MAQ017,CLIENTE035,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00905,2024-05-14 03:40:00,MAQ010,CLIENTE036,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S00906,2024-05-30 00:07:00,MAQ008,CLIENTE010,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00907,2024-12-27 20:09:00,MAQ009,CLIENTE040,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S00908,2024-04-22 23:13:00,MAQ006,CLIENTE002,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00909,2024-02-15 15:46:00,MAQ002,CLIENTE049,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00910,2024-05-29 13:37:00,MAQ009,CLIENTE019,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00911,2024-01-07 18:52:00,MAQ003,CLIENTE012,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00912,2024-02-18 18:12:00,MAQ020,CLIENTE024,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00913,2024-06-16 03:11:00,MAQ012,CLIENTE049,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S00914,2024-04-21 22:55:00,MAQ012,CLIENTE045,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta A,Biobío,Concepción,Sur
+S00915,2024-03-04 10:43:00,MAQ016,CLIENTE002,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00916,2024-01-02 13:37:00,MAQ001,CLIENTE043,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta E,Biobío,Concepción,Sur
+S00917,2024-12-01 20:33:00,MAQ002,CLIENTE030,P008,Energética,Bebida,1600,1,1600,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00918,2024-12-21 15:03:00,MAQ013,CLIENTE035,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00919,2024-10-22 22:22:00,MAQ008,CLIENTE026,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta D,Biobío,Concepción,Sur
+S00920,2024-12-30 01:57:00,MAQ016,CLIENTE033,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00921,2024-03-13 23:53:00,MAQ006,CLIENTE023,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S00922,2024-11-17 21:36:00,MAQ002,CLIENTE014,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta D,Araucanía,Temuco,Sur
+S00923,2024-08-22 16:23:00,MAQ014,CLIENTE045,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00924,2024-12-09 10:49:00,MAQ003,CLIENTE010,P006,Galletas,Snack,1000,2,2000,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00925,2024-03-29 02:55:00,MAQ017,CLIENTE011,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S00926,2024-01-21 17:47:00,MAQ016,CLIENTE023,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S00927,2024-11-19 00:04:00,MAQ020,CLIENTE013,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta D,Araucanía,Temuco,Sur
+S00928,2024-12-27 06:27:00,MAQ017,CLIENTE006,P006,Galletas,Snack,1000,1,1000,QR,Ruta D,Araucanía,Temuco,Sur
+S00929,2024-11-17 17:03:00,MAQ014,CLIENTE036,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S00930,2024-03-11 13:47:00,MAQ008,CLIENTE013,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00931,2024-12-26 06:10:00,MAQ019,CLIENTE017,P003,Agua Mineral,Bebida,900,1,900,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S00932,2024-10-03 04:20:00,MAQ014,CLIENTE019,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S00933,2024-12-28 00:54:00,MAQ003,CLIENTE024,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta E,Araucanía,Temuco,Sur
+S00934,2024-03-07 19:58:00,MAQ006,CLIENTE011,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00935,2024-07-07 12:33:00,MAQ002,CLIENTE048,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S00936,2024-07-21 03:47:00,MAQ015,CLIENTE013,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S00937,2024-02-02 09:49:00,MAQ017,CLIENTE035,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta B,Biobío,Concepción,Sur
+S00938,2024-05-17 10:09:00,MAQ004,CLIENTE016,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00939,2024-05-31 16:24:00,MAQ003,CLIENTE003,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S00940,2024-08-02 22:28:00,MAQ003,CLIENTE014,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00941,2024-06-03 08:44:00,MAQ011,CLIENTE017,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Biobío,Concepción,Sur
+S00942,2024-11-05 08:52:00,MAQ004,CLIENTE025,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta E,Araucanía,Temuco,Sur
+S00943,2024-06-19 08:24:00,MAQ014,CLIENTE048,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S00944,2024-12-07 14:31:00,MAQ007,CLIENTE043,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta B,Antofagasta,Antofagasta,Norte
+S00945,2024-04-21 23:53:00,MAQ004,CLIENTE022,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00946,2024-06-19 14:26:00,MAQ018,CLIENTE016,P010,Chocolate,Snack,1700,3,5100,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00947,2024-09-08 06:05:00,MAQ006,CLIENTE006,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S00948,2024-11-21 00:45:00,MAQ016,CLIENTE044,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S00949,2024-03-11 06:02:00,MAQ010,CLIENTE038,P010,Chocolate,Snack,1700,2,3400,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00950,2024-10-16 05:30:00,MAQ015,CLIENTE003,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta B,Biobío,Concepción,Sur
+S00951,2024-10-27 09:01:00,MAQ005,CLIENTE028,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00952,2024-12-26 03:38:00,MAQ010,CLIENTE016,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00953,2024-08-25 10:59:00,MAQ002,CLIENTE028,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S00954,2024-08-21 12:38:00,MAQ001,CLIENTE028,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00955,2024-09-26 01:23:00,MAQ017,CLIENTE009,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00956,2024-09-25 11:18:00,MAQ002,CLIENTE006,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S00957,2024-03-08 01:54:00,MAQ015,CLIENTE008,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S00958,2024-06-08 02:43:00,MAQ003,CLIENTE035,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S00959,2024-08-26 06:01:00,MAQ001,CLIENTE027,P010,Chocolate,Snack,1700,2,3400,QR,Ruta E,Araucanía,Temuco,Sur
+S00960,2024-08-16 05:33:00,MAQ006,CLIENTE027,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00961,2024-12-15 17:27:00,MAQ008,CLIENTE040,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S00962,2024-12-26 11:23:00,MAQ008,CLIENTE038,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S00963,2024-05-23 20:16:00,MAQ017,CLIENTE013,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta A,Araucanía,Temuco,Sur
+S00964,2024-09-09 21:19:00,MAQ001,CLIENTE025,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00965,2024-01-23 12:56:00,MAQ002,CLIENTE030,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta A,Araucanía,Temuco,Sur
+S00966,2024-03-11 16:03:00,MAQ010,CLIENTE017,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00967,2024-04-08 01:53:00,MAQ006,CLIENTE043,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00968,2024-05-14 15:29:00,MAQ015,CLIENTE014,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00969,2024-06-18 16:13:00,MAQ006,CLIENTE050,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta C,Biobío,Concepción,Sur
+S00970,2024-05-15 23:30:00,MAQ007,CLIENTE019,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S00971,2024-02-15 07:46:00,MAQ017,CLIENTE024,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S00972,2024-12-19 23:19:00,MAQ018,CLIENTE032,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S00973,2024-03-22 11:36:00,MAQ012,CLIENTE018,P006,Galletas,Snack,1000,2,2000,QR,Ruta E,Araucanía,Temuco,Sur
+S00974,2024-02-24 07:59:00,MAQ010,CLIENTE016,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S00975,2024-12-04 16:54:00,MAQ006,CLIENTE036,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S00976,2024-07-16 19:59:00,MAQ003,CLIENTE021,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S00977,2024-02-10 00:58:00,MAQ002,CLIENTE025,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S00978,2024-08-05 18:41:00,MAQ008,CLIENTE040,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00979,2024-02-08 07:35:00,MAQ013,CLIENTE024,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S00980,2024-04-25 07:37:00,MAQ010,CLIENTE021,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S00981,2024-09-13 16:00:00,MAQ010,CLIENTE015,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S00982,2024-12-15 04:11:00,MAQ016,CLIENTE003,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta C,Araucanía,Temuco,Sur
+S00983,2024-10-07 03:26:00,MAQ017,CLIENTE027,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S00984,2024-11-22 20:40:00,MAQ006,CLIENTE014,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta C,Araucanía,Temuco,Sur
+S00985,2024-05-17 19:10:00,MAQ003,CLIENTE036,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta E,Biobío,Concepción,Sur
+S00986,2024-10-25 07:31:00,MAQ019,CLIENTE036,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta E,Biobío,Concepción,Sur
+S00987,2024-04-25 05:47:00,MAQ001,CLIENTE045,P003,Agua Mineral,Bebida,900,2,1800,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S00988,2024-09-22 01:24:00,MAQ002,CLIENTE015,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S00989,2024-01-14 11:59:00,MAQ015,CLIENTE018,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S00990,2024-04-08 23:37:00,MAQ008,CLIENTE016,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00991,2024-01-07 20:47:00,MAQ006,CLIENTE039,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S00992,2024-03-28 20:48:00,MAQ018,CLIENTE015,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S00993,2024-06-09 07:31:00,MAQ013,CLIENTE038,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S00994,2024-03-01 06:14:00,MAQ012,CLIENTE021,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta C,Araucanía,Temuco,Sur
+S00995,2024-11-21 15:19:00,MAQ010,CLIENTE028,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S00996,2024-09-14 22:00:00,MAQ007,CLIENTE050,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta E,Araucanía,Temuco,Sur
+S00997,2024-04-05 04:57:00,MAQ018,CLIENTE048,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S00998,2024-06-06 04:39:00,MAQ008,CLIENTE039,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S00999,2024-12-12 01:15:00,MAQ019,CLIENTE033,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S01000,2024-08-25 03:16:00,MAQ002,CLIENTE007,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S01001,2024-12-08 02:07:00,MAQ009,CLIENTE039,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S01002,2024-04-09 23:01:00,MAQ007,CLIENTE036,P007,Café en lata,Bebida,1300,2,2600,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01003,2024-09-23 02:51:00,MAQ013,CLIENTE031,P008,Energética,Bebida,1600,1,1600,QR,Ruta C,Antofagasta,Antofagasta,Norte
+S01004,2024-04-08 17:45:00,MAQ003,CLIENTE002,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S01005,2024-07-09 11:39:00,MAQ006,CLIENTE011,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S01006,2024-03-27 06:47:00,MAQ008,CLIENTE016,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S01007,2024-12-25 22:22:00,MAQ017,CLIENTE004,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S01008,2024-02-24 05:29:00,MAQ014,CLIENTE047,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S01009,2024-12-24 04:45:00,MAQ001,CLIENTE023,P009,Jugo Natural,Bebida,1400,3,4200,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S01010,2024-02-02 19:44:00,MAQ012,CLIENTE040,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S01011,2024-02-14 01:49:00,MAQ017,CLIENTE032,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta D,Biobío,Concepción,Sur
+S01012,2024-12-01 11:08:00,MAQ009,CLIENTE020,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta C,Biobío,Concepción,Sur
+S01013,2024-03-04 02:17:00,MAQ009,CLIENTE031,P006,Galletas,Snack,1000,1,1000,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S01014,2024-05-26 13:36:00,MAQ002,CLIENTE047,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S01015,2024-06-15 13:02:00,MAQ001,CLIENTE018,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S01016,2024-11-20 13:00:00,MAQ012,CLIENTE026,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S01017,2024-11-27 19:04:00,MAQ017,CLIENTE004,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01018,2024-07-26 18:12:00,MAQ019,CLIENTE024,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S01019,2024-01-20 00:03:00,MAQ015,CLIENTE041,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta C,Biobío,Concepción,Sur
+S01020,2024-07-30 10:26:00,MAQ003,CLIENTE034,P004,Papas Fritas,Snack,1500,3,4500,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01021,2024-08-14 00:56:00,MAQ003,CLIENTE033,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S01022,2024-11-12 20:04:00,MAQ004,CLIENTE042,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S01023,2024-07-13 05:47:00,MAQ008,CLIENTE044,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta D,Araucanía,Temuco,Sur
+S01024,2024-10-08 12:03:00,MAQ005,CLIENTE044,P009,Jugo Natural,Bebida,1400,3,4200,Tarjeta,Ruta C,Antofagasta,Antofagasta,Norte
+S01025,2024-07-29 05:28:00,MAQ011,CLIENTE049,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S01026,2024-11-28 12:01:00,MAQ015,CLIENTE038,P006,Galletas,Snack,1000,2,2000,QR,Ruta C,Biobío,Concepción,Sur
+S01027,2024-09-30 15:55:00,MAQ019,CLIENTE008,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S01028,2024-06-23 20:41:00,MAQ019,CLIENTE043,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S01029,2024-12-30 22:58:00,MAQ009,CLIENTE024,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S01030,2024-05-04 01:17:00,MAQ011,CLIENTE048,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01031,2024-03-29 07:44:00,MAQ013,CLIENTE004,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S01032,2024-05-18 18:53:00,MAQ006,CLIENTE048,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S01033,2024-05-14 16:03:00,MAQ010,CLIENTE015,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta C,Araucanía,Temuco,Sur
+S01034,2024-04-11 22:46:00,MAQ020,CLIENTE043,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S01035,2024-12-22 10:00:00,MAQ006,CLIENTE009,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01036,2024-06-13 11:03:00,MAQ014,CLIENTE028,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S01037,2024-06-11 02:01:00,MAQ005,CLIENTE019,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S01038,2024-11-19 10:49:00,MAQ012,CLIENTE003,P010,Chocolate,Snack,1700,3,5100,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S01039,2024-11-09 05:20:00,MAQ011,CLIENTE013,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S01040,2024-06-01 02:38:00,MAQ011,CLIENTE043,P004,Papas Fritas,Snack,1500,3,4500,QR,Ruta C,Araucanía,Temuco,Sur
+S01041,2024-09-04 09:46:00,MAQ008,CLIENTE025,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S01042,2024-05-01 13:52:00,MAQ017,CLIENTE027,P007,Café en lata,Bebida,1300,3,3900,Efectivo,Ruta A,Biobío,Concepción,Sur
+S01043,2024-11-15 02:38:00,MAQ009,CLIENTE011,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S01044,2024-10-07 14:22:00,MAQ019,CLIENTE016,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01045,2024-10-09 23:28:00,MAQ004,CLIENTE050,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S01046,2024-10-05 03:33:00,MAQ004,CLIENTE036,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S01047,2024-02-15 19:40:00,MAQ013,CLIENTE046,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta E,Araucanía,Temuco,Sur
+S01048,2024-02-09 14:44:00,MAQ002,CLIENTE001,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta C,Biobío,Concepción,Sur
+S01049,2024-11-02 20:56:00,MAQ015,CLIENTE031,P009,Jugo Natural,Bebida,1400,1,1400,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S01050,2024-03-19 07:06:00,MAQ017,CLIENTE015,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S01051,2024-06-28 05:00:00,MAQ019,CLIENTE026,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta C,Biobío,Concepción,Sur
+S01052,2024-10-26 22:13:00,MAQ014,CLIENTE027,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S01053,2024-01-14 09:38:00,MAQ009,CLIENTE015,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S01054,2024-07-01 08:18:00,MAQ008,CLIENTE046,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S01055,2024-08-15 14:04:00,MAQ003,CLIENTE012,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S01056,2024-10-28 04:42:00,MAQ007,CLIENTE046,P006,Galletas,Snack,1000,3,3000,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S01057,2024-09-04 00:34:00,MAQ005,CLIENTE045,P001,Coca-Cola,Bebida,1200,1,1200,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01058,2024-07-19 14:56:00,MAQ004,CLIENTE041,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S01059,2024-10-22 21:26:00,MAQ014,CLIENTE041,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta B,Biobío,Concepción,Sur
+S01060,2024-03-08 00:58:00,MAQ012,CLIENTE042,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S01061,2024-01-16 19:59:00,MAQ004,CLIENTE017,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta A,Valparaíso,Viña del Mar,Costa
+S01062,2024-05-30 20:20:00,MAQ020,CLIENTE029,P001,Coca-Cola,Bebida,1200,3,3600,QR,Ruta A,Biobío,Concepción,Sur
+S01063,2024-01-10 16:34:00,MAQ002,CLIENTE015,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S01064,2024-03-18 17:51:00,MAQ015,CLIENTE024,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta E,Araucanía,Temuco,Sur
+S01065,2024-10-12 18:21:00,MAQ018,CLIENTE015,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S01066,2024-04-17 16:20:00,MAQ009,CLIENTE045,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta A,Biobío,Concepción,Sur
+S01067,2024-09-29 19:13:00,MAQ018,CLIENTE030,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S01068,2024-03-05 06:19:00,MAQ016,CLIENTE022,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S01069,2024-04-23 06:25:00,MAQ009,CLIENTE026,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S01070,2024-05-09 10:10:00,MAQ008,CLIENTE032,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta E,Valparaíso,Viña del Mar,Costa
+S01071,2024-01-03 08:05:00,MAQ016,CLIENTE048,P003,Agua Mineral,Bebida,900,1,900,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S01072,2024-09-24 01:27:00,MAQ013,CLIENTE045,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta D,Antofagasta,Antofagasta,Norte
+S01073,2024-01-16 00:00:00,MAQ014,CLIENTE027,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta D,Antofagasta,Antofagasta,Norte
+S01074,2024-11-18 11:00:00,MAQ014,CLIENTE014,P010,Chocolate,Snack,1700,1,1700,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S01075,2024-11-12 18:18:00,MAQ017,CLIENTE005,P006,Galletas,Snack,1000,1,1000,QR,Ruta E,Araucanía,Temuco,Sur
+S01076,2024-06-25 14:00:00,MAQ004,CLIENTE044,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S01077,2024-12-02 00:23:00,MAQ008,CLIENTE008,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta C,Biobío,Concepción,Sur
+S01078,2024-03-18 09:42:00,MAQ013,CLIENTE013,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta E,Región Metropolitana,Santiago,Centro
+S01079,2024-05-11 00:53:00,MAQ006,CLIENTE006,P008,Energética,Bebida,1600,2,3200,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S01080,2024-07-15 23:48:00,MAQ002,CLIENTE029,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S01081,2024-08-14 10:42:00,MAQ003,CLIENTE046,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01082,2024-11-18 16:45:00,MAQ014,CLIENTE047,P003,Agua Mineral,Bebida,900,2,1800,QR,Ruta B,Valparaíso,Viña del Mar,Costa
+S01083,2024-04-03 03:28:00,MAQ002,CLIENTE002,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta D,Valparaíso,Viña del Mar,Costa
+S01084,2024-02-28 02:02:00,MAQ011,CLIENTE020,P001,Coca-Cola,Bebida,1200,1,1200,QR,Ruta E,Biobío,Concepción,Sur
+S01085,2024-04-20 03:11:00,MAQ006,CLIENTE011,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S01086,2024-02-02 09:22:00,MAQ018,CLIENTE023,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S01087,2024-05-20 23:31:00,MAQ003,CLIENTE019,P008,Energética,Bebida,1600,2,3200,QR,Ruta E,Araucanía,Temuco,Sur
+S01088,2024-07-19 08:42:00,MAQ019,CLIENTE044,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01089,2024-11-02 07:52:00,MAQ019,CLIENTE047,P006,Galletas,Snack,1000,3,3000,QR,Ruta D,Araucanía,Temuco,Sur
+S01090,2024-12-29 20:35:00,MAQ004,CLIENTE019,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta A,Antofagasta,Antofagasta,Norte
+S01091,2024-01-07 08:38:00,MAQ002,CLIENTE035,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01092,2024-08-24 14:10:00,MAQ009,CLIENTE028,P005,Barra de Cereal,Snack,800,3,2400,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01093,2024-12-17 13:04:00,MAQ013,CLIENTE005,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S01094,2024-11-16 00:31:00,MAQ006,CLIENTE003,P005,Barra de Cereal,Snack,800,1,800,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S01095,2024-08-01 15:51:00,MAQ006,CLIENTE020,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S01096,2024-09-21 18:56:00,MAQ017,CLIENTE022,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S01097,2024-05-17 12:53:00,MAQ003,CLIENTE023,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S01098,2024-02-20 22:53:00,MAQ020,CLIENTE033,P002,Pepsi,Bebida,1100,3,3300,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S01099,2024-08-18 19:52:00,MAQ015,CLIENTE011,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S01100,2024-06-09 21:08:00,MAQ005,CLIENTE034,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S01101,2024-11-18 20:58:00,MAQ003,CLIENTE018,P006,Galletas,Snack,1000,1,1000,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S01102,2024-07-08 23:03:00,MAQ013,CLIENTE016,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S01103,2024-04-02 11:13:00,MAQ006,CLIENTE048,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta E,Biobío,Concepción,Sur
+S01104,2024-08-29 05:18:00,MAQ015,CLIENTE023,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta A,Araucanía,Temuco,Sur
+S01105,2024-07-08 20:58:00,MAQ011,CLIENTE039,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S01106,2024-08-24 09:59:00,MAQ008,CLIENTE032,P010,Chocolate,Snack,1700,2,3400,Tarjeta,Ruta D,Región Metropolitana,Santiago,Centro
+S01107,2024-07-22 16:30:00,MAQ012,CLIENTE024,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta A,Biobío,Concepción,Sur
+S01108,2024-09-18 08:35:00,MAQ020,CLIENTE039,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S01109,2024-05-03 02:26:00,MAQ003,CLIENTE041,P007,Café en lata,Bebida,1300,3,3900,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01110,2024-05-06 04:06:00,MAQ016,CLIENTE019,P007,Café en lata,Bebida,1300,3,3900,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S01111,2024-02-27 07:37:00,MAQ017,CLIENTE014,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta E,Biobío,Concepción,Sur
+S01112,2024-12-09 13:16:00,MAQ002,CLIENTE040,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta D,Biobío,Concepción,Sur
+S01113,2024-02-22 05:41:00,MAQ010,CLIENTE025,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01114,2024-09-05 00:07:00,MAQ004,CLIENTE019,P005,Barra de Cereal,Snack,800,1,800,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S01115,2024-03-08 05:54:00,MAQ017,CLIENTE014,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta B,Biobío,Concepción,Sur
+S01116,2024-01-22 02:08:00,MAQ016,CLIENTE022,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S01117,2024-09-25 10:12:00,MAQ019,CLIENTE016,P004,Papas Fritas,Snack,1500,2,3000,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S01118,2024-05-16 20:07:00,MAQ003,CLIENTE021,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S01119,2024-02-06 08:51:00,MAQ002,CLIENTE028,P005,Barra de Cereal,Snack,800,1,800,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S01120,2024-01-18 09:14:00,MAQ014,CLIENTE011,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S01121,2024-04-14 20:51:00,MAQ006,CLIENTE043,P009,Jugo Natural,Bebida,1400,2,2800,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01122,2024-12-19 06:46:00,MAQ003,CLIENTE006,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta D,Región Metropolitana,Santiago,Centro
+S01123,2024-12-25 22:33:00,MAQ011,CLIENTE025,P004,Papas Fritas,Snack,1500,2,3000,Tarjeta,Ruta A,Valparaíso,Viña del Mar,Costa
+S01124,2024-08-05 22:55:00,MAQ012,CLIENTE036,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S01125,2024-06-11 05:29:00,MAQ004,CLIENTE029,P010,Chocolate,Snack,1700,1,1700,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01126,2024-07-07 07:40:00,MAQ002,CLIENTE028,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S01127,2024-07-20 04:34:00,MAQ009,CLIENTE038,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S01128,2024-04-23 12:26:00,MAQ017,CLIENTE028,P006,Galletas,Snack,1000,3,3000,Tarjeta,Ruta B,Valparaíso,Viña del Mar,Costa
+S01129,2024-05-10 02:55:00,MAQ010,CLIENTE027,P008,Energética,Bebida,1600,1,1600,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S01130,2024-03-23 21:35:00,MAQ016,CLIENTE030,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta D,Valparaíso,Viña del Mar,Costa
+S01131,2024-01-01 19:26:00,MAQ002,CLIENTE027,P002,Pepsi,Bebida,1100,2,2200,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S01132,2024-02-20 22:56:00,MAQ016,CLIENTE013,P008,Energética,Bebida,1600,1,1600,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01133,2024-03-02 04:07:00,MAQ016,CLIENTE022,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Biobío,Concepción,Sur
+S01134,2024-12-16 09:58:00,MAQ009,CLIENTE010,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Antofagasta,Antofagasta,Norte
+S01135,2024-01-24 11:43:00,MAQ006,CLIENTE012,P005,Barra de Cereal,Snack,800,3,2400,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S01136,2024-01-04 16:49:00,MAQ013,CLIENTE038,P002,Pepsi,Bebida,1100,3,3300,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S01137,2024-04-27 17:26:00,MAQ001,CLIENTE044,P008,Energética,Bebida,1600,1,1600,Tarjeta,Ruta E,Valparaíso,Viña del Mar,Costa
+S01138,2024-11-09 14:30:00,MAQ013,CLIENTE006,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta B,Araucanía,Temuco,Sur
+S01139,2024-04-24 22:48:00,MAQ019,CLIENTE010,P007,Café en lata,Bebida,1300,1,1300,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S01140,2024-06-16 03:02:00,MAQ018,CLIENTE024,P007,Café en lata,Bebida,1300,2,2600,Tarjeta,Ruta A,Biobío,Concepción,Sur
+S01141,2024-05-17 12:37:00,MAQ017,CLIENTE045,P008,Energética,Bebida,1600,2,3200,Tarjeta,Ruta D,Biobío,Concepción,Sur
+S01142,2024-12-24 22:42:00,MAQ014,CLIENTE012,P003,Agua Mineral,Bebida,900,1,900,QR,Ruta C,Región Metropolitana,Santiago,Centro
+S01143,2024-02-23 00:10:00,MAQ016,CLIENTE024,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S01144,2024-01-15 04:37:00,MAQ010,CLIENTE001,P010,Chocolate,Snack,1700,1,1700,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S01145,2024-04-26 11:01:00,MAQ002,CLIENTE007,P002,Pepsi,Bebida,1100,3,3300,QR,Ruta A,Región Metropolitana,Santiago,Centro
+S01146,2024-04-24 09:32:00,MAQ007,CLIENTE005,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta B,Biobío,Concepción,Sur
+S01147,2024-01-11 16:20:00,MAQ019,CLIENTE017,P010,Chocolate,Snack,1700,1,1700,QR,Ruta A,Valparaíso,Viña del Mar,Costa
+S01148,2024-01-02 17:48:00,MAQ008,CLIENTE032,P005,Barra de Cereal,Snack,800,2,1600,Efectivo,Ruta B,Valparaíso,Viña del Mar,Costa
+S01149,2024-11-21 13:37:00,MAQ002,CLIENTE039,P007,Café en lata,Bebida,1300,2,2600,Efectivo,Ruta B,Región Metropolitana,Santiago,Centro
+S01150,2024-08-19 19:00:00,MAQ020,CLIENTE015,P003,Agua Mineral,Bebida,900,3,2700,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01151,2024-03-07 00:12:00,MAQ013,CLIENTE036,P009,Jugo Natural,Bebida,1400,2,2800,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S01152,2024-04-03 20:24:00,MAQ002,CLIENTE004,P007,Café en lata,Bebida,1300,1,1300,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S01153,2024-09-09 19:51:00,MAQ011,CLIENTE002,P008,Energética,Bebida,1600,3,4800,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S01154,2024-01-12 15:15:00,MAQ017,CLIENTE017,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta C,Biobío,Concepción,Sur
+S01155,2024-08-21 05:55:00,MAQ010,CLIENTE035,P004,Papas Fritas,Snack,1500,2,3000,Efectivo,Ruta B,Araucanía,Temuco,Sur
+S01156,2024-10-09 01:47:00,MAQ002,CLIENTE017,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S01157,2024-12-23 01:04:00,MAQ019,CLIENTE006,P001,Coca-Cola,Bebida,1200,2,2400,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S01158,2024-06-17 02:51:00,MAQ001,CLIENTE014,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta A,Antofagasta,Antofagasta,Norte
+S01159,2024-09-25 06:30:00,MAQ016,CLIENTE004,P007,Café en lata,Bebida,1300,1,1300,QR,Ruta D,Valparaíso,Viña del Mar,Costa
+S01160,2024-04-21 08:10:00,MAQ020,CLIENTE040,P002,Pepsi,Bebida,1100,1,1100,QR,Ruta D,Región Metropolitana,Santiago,Centro
+S01161,2024-12-30 21:25:00,MAQ009,CLIENTE044,P001,Coca-Cola,Bebida,1200,3,3600,Tarjeta,Ruta D,Araucanía,Temuco,Sur
+S01162,2024-04-09 08:57:00,MAQ003,CLIENTE047,P010,Chocolate,Snack,1700,2,3400,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S01163,2024-12-05 09:50:00,MAQ018,CLIENTE032,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta C,Valparaíso,Viña del Mar,Costa
+S01164,2024-03-09 07:01:00,MAQ001,CLIENTE015,P008,Energética,Bebida,1600,2,3200,QR,Ruta E,Región Metropolitana,Santiago,Centro
+S01165,2024-02-29 23:30:00,MAQ005,CLIENTE009,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01166,2024-10-17 08:34:00,MAQ008,CLIENTE037,P001,Coca-Cola,Bebida,1200,2,2400,QR,Ruta C,Valparaíso,Viña del Mar,Costa
+S01167,2024-08-18 22:58:00,MAQ003,CLIENTE036,P005,Barra de Cereal,Snack,800,3,2400,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S01168,2024-09-29 21:26:00,MAQ019,CLIENTE001,P008,Energética,Bebida,1600,2,3200,QR,Ruta A,Araucanía,Temuco,Sur
+S01169,2024-03-30 16:20:00,MAQ013,CLIENTE050,P004,Papas Fritas,Snack,1500,1,1500,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S01170,2024-11-13 05:42:00,MAQ003,CLIENTE050,P009,Jugo Natural,Bebida,1400,2,2800,Efectivo,Ruta A,Región Metropolitana,Santiago,Centro
+S01171,2024-07-11 20:08:00,MAQ001,CLIENTE032,P003,Agua Mineral,Bebida,900,2,1800,Efectivo,Ruta D,Araucanía,Temuco,Sur
+S01172,2024-03-23 02:25:00,MAQ012,CLIENTE045,P002,Pepsi,Bebida,1100,2,2200,Efectivo,Ruta E,Antofagasta,Antofagasta,Norte
+S01173,2024-01-04 02:16:00,MAQ005,CLIENTE046,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta E,Antofagasta,Antofagasta,Norte
+S01174,2024-11-27 07:40:00,MAQ018,CLIENTE037,P002,Pepsi,Bebida,1100,1,1100,Tarjeta,Ruta B,Región Metropolitana,Santiago,Centro
+S01175,2024-04-11 23:17:00,MAQ011,CLIENTE021,P005,Barra de Cereal,Snack,800,2,1600,Tarjeta,Ruta E,Araucanía,Temuco,Sur
+S01176,2024-04-04 15:30:00,MAQ013,CLIENTE031,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S01177,2024-07-02 17:56:00,MAQ010,CLIENTE033,P009,Jugo Natural,Bebida,1400,1,1400,Efectivo,Ruta C,Antofagasta,Antofagasta,Norte
+S01178,2024-10-06 12:14:00,MAQ014,CLIENTE005,P004,Papas Fritas,Snack,1500,3,4500,Tarjeta,Ruta C,Biobío,Concepción,Sur
+S01179,2024-12-06 19:55:00,MAQ018,CLIENTE027,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01180,2024-05-13 19:57:00,MAQ013,CLIENTE037,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta E,Valparaíso,Viña del Mar,Costa
+S01181,2024-03-14 20:31:00,MAQ014,CLIENTE046,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta C,Araucanía,Temuco,Sur
+S01182,2024-08-12 21:42:00,MAQ017,CLIENTE025,P009,Jugo Natural,Bebida,1400,3,4200,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01183,2024-01-01 17:59:00,MAQ002,CLIENTE027,P003,Agua Mineral,Bebida,900,3,2700,Tarjeta,Ruta C,Región Metropolitana,Santiago,Centro
+S01184,2024-11-08 06:16:00,MAQ008,CLIENTE018,P010,Chocolate,Snack,1700,1,1700,Tarjeta,Ruta B,Biobío,Concepción,Sur
+S01185,2024-04-06 10:30:00,MAQ009,CLIENTE049,P001,Coca-Cola,Bebida,1200,1,1200,Tarjeta,Ruta A,Región Metropolitana,Santiago,Centro
+S01186,2024-11-12 09:57:00,MAQ016,CLIENTE040,P003,Agua Mineral,Bebida,900,3,2700,QR,Ruta B,Región Metropolitana,Santiago,Centro
+S01187,2024-03-10 14:29:00,MAQ006,CLIENTE037,P010,Chocolate,Snack,1700,2,3400,QR,Ruta A,Antofagasta,Antofagasta,Norte
+S01188,2024-04-04 03:28:00,MAQ006,CLIENTE024,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01189,2024-10-13 10:05:00,MAQ012,CLIENTE038,P008,Energética,Bebida,1600,1,1600,Efectivo,Ruta B,Antofagasta,Antofagasta,Norte
+S01190,2024-08-24 07:59:00,MAQ003,CLIENTE012,P008,Energética,Bebida,1600,3,4800,Tarjeta,Ruta C,Valparaíso,Viña del Mar,Costa
+S01191,2024-08-20 03:17:00,MAQ019,CLIENTE035,P006,Galletas,Snack,1000,1,1000,Tarjeta,Ruta E,Región Metropolitana,Santiago,Centro
+S01192,2024-04-08 21:37:00,MAQ017,CLIENTE002,P002,Pepsi,Bebida,1100,2,2200,QR,Ruta B,Biobío,Concepción,Sur
+S01193,2024-01-03 18:36:00,MAQ002,CLIENTE033,P006,Galletas,Snack,1000,2,2000,Efectivo,Ruta E,Biobío,Concepción,Sur
+S01194,2024-11-25 09:06:00,MAQ016,CLIENTE044,P005,Barra de Cereal,Snack,800,2,1600,QR,Ruta E,Antofagasta,Antofagasta,Norte
+S01195,2024-11-28 05:20:00,MAQ018,CLIENTE021,P004,Papas Fritas,Snack,1500,1,1500,QR,Ruta E,Biobío,Concepción,Sur
+S01196,2024-01-21 19:09:00,MAQ003,CLIENTE041,P001,Coca-Cola,Bebida,1200,3,3600,Efectivo,Ruta D,Biobío,Concepción,Sur
+S01197,2024-11-04 06:25:00,MAQ020,CLIENTE046,P004,Papas Fritas,Snack,1500,1,1500,Efectivo,Ruta D,Antofagasta,Antofagasta,Norte
+S01198,2024-06-24 12:48:00,MAQ020,CLIENTE050,P002,Pepsi,Bebida,1100,1,1100,Efectivo,Ruta C,Región Metropolitana,Santiago,Centro
+S01199,2024-05-05 20:24:00,MAQ013,CLIENTE036,P010,Chocolate,Snack,1700,3,5100,Efectivo,Ruta B,Biobío,Concepción,Sur
+S01200,2024-03-19 17:19:00,MAQ006,CLIENTE044,P009,Jugo Natural,Bebida,1400,1,1400,QR,Ruta A,Araucanía,Temuco,Sur
